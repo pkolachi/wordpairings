@@ -2,8 +2,10 @@
 
 LANGS=( ar as bg bn ca cs da de el en es et eu fi fr ga gu he hi hu ia is it ja kn ko la lv ml mr mt nl no or pa pl pt ro ru sv zh )
 DATASET=( dic freq )
-CORPUS=( OpenSubtitles2018 EUbookshop DGT Europarl EMEA ParaCrawl JRC-Acquis )
-GIZADIR=false 
+# JRC-Acquis removed from CORPUS
+CORPUS=( OpenSubtitles2018 EUbookshop DGT Europarl EMEA ParaCrawl )  
+# do not set this to true 
+GIZADIR=false   
 
 for corpname in ${CORPUS[@]} 
 do 
