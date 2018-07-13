@@ -46,7 +46,11 @@ Version log:
       both platforms. Also, using numpy is an option but at the moment I do not
       see the need for it- Py2 consumes roughly 10G+ and Py3 around 6G+. 
       What might be "urgent" is to implement the data-types defined using
-      namedtuple() & indexdict as custom collections. 
+      namedtuple() & indexdict as custom collections.
+      I don't see any point in implementing disjoint set forests. The 
+      weighted union + disjoint sets seems to server the purpose for reasonable
+      sizes of the graphs. 
+
 """
 
 # UGLY HACK 
