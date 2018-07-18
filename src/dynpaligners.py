@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 """ 
-This module implements different sequence alignment methods. 
+This module implements different alignment methods primarily based on
+dynamic programming. 
 All the methods are non-statistical in nature: i.e. given two sequences
 they find one or many plausible alignments between the items in the 
 sequences and a score/number associated with each alignment
@@ -42,6 +43,22 @@ def lcs(seq1, seq2) :
 
 # Edit Distance methods
 ## 
+
+def needleman_wunsch(seq1, seq2, edit_matrix) : 
+  m = len(seq1) + 1 ; 
+  n = len(seq2) + 1 ; 
+  C = [[0 for j in range(n+1)] for i in range(m+1)] ; # cost matrix 
+  for j in range(1, n+1) :
+    C[0][j] = C[0][j-1] + edit_matrix[INSERT][seq2[j].desc] ; 
+  for i in range(1, m+1) :
+    C[i][0] = C[i-1][0] + edit_matrix[DELETE][seq1[i].desc] ; 
+    for j in range(1, n+1) :
+      s_sub = C[i-1][j-1] + edit_matrix[REPLACE][seq1[i].desc,seq2[j].desc] ;
+      s_del = C[i-1][j]   + edit_matrix[DELETE][seq1[i].desc] ; 
+      s_ins = C[i][j-1]   + edit_matrix[INSERT][seq2[j].desc] ; 
+      C[i][j] = max(s_sub, s_del, s_ins) ; 
+
+  return [C[m][j] for j in range(0, n+1)] ;
 
 def levenstein(seq1, seq2) :
   return x ; 
