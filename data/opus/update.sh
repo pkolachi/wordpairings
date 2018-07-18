@@ -1,11 +1,31 @@
 #!/bin/bash
 
-LANGS=( ar as bg bn ca cs da de el en es et eu fi fr ga gu he hi hu ia is it ja kn ko la lv ml mr mt nl no or pa pl pt ro ru sv zh )
+LANGS=( \
+       ar as \
+       bg bn \
+       ca cs \
+       da de \
+       el en es et eu \
+       fi fr \
+       ga gu \
+       he hi hu \
+       ia is it \
+       ja \
+       kn ko \
+       la lv \
+       ml mr mt \
+       nl no \
+       or \
+       pa pl pt \
+       ro ru \
+       sv \
+       zh \
+      )
 DATASET=( dic freq )
 # JRC-Acquis removed from CORPUS
-CORPUS=( OpenSubtitles2018 EUbookshop DGT Europarl EMEA ParaCrawl )  
+CORPUS=( OpenSubtitles2018 EUbookshop DGT Europarl EMEA ParaCrawl )
 # do not set this to true 
-GIZADIR=false   
+GIZADIR=false
 
 for corpname in ${CORPUS[@]} 
 do 
@@ -27,7 +47,7 @@ do
 	    wget -O ${outfile} ${url} ; 
 	    exits=$? ; 
 	    if [[ $exits != 0 ]] ; then 
-		echo "rm -i ${outfile}" ; 
+		echo "rm -i ${outfile}" ;
 	    fi
 	fi
     done
@@ -53,7 +73,7 @@ do
 		    fi
 
 		    # since language pair is confirmed to exist; also download probabilistic dictionaries 
-		    if [[ ${GIZADIR} ]] ; then
+		    if [[ "${GIZADIR}" = true ]] ; then
 			mkdir -p "${corpname}/${pairname}/model" ; 
 			url="http://opus.nlpl.eu/download/${corpname}/${pairname}/model/lex.e2f.gz" ; 
 			outfile="${corpname}/${pairname}/model/lex.e2f.gz" ; 
