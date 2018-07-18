@@ -16,7 +16,7 @@ FHANDLERS = defaultdict(lambda : io.open, \
              } ) ;
 def lines_from_file(filename=''):
   global FHANDLERS ; 
-  filename  = filename.strip();
+  filename  = filename.strip() ;
   if filename:    
     _, ext   = os.path.splitext(filename) ;
   else:            # filename is empty. read from STDIN
@@ -26,12 +26,12 @@ def lines_from_file(filename=''):
     #iobuf = io.BufferedReader(iostream) ;
     iobuf = iostream ;
     for line in iobuf :
-      yield line.decode('utf-8').rstrip('\n') ; 
+      yield line.decode('utf-8').rstrip('\n') ;
   return ;
 
 def lines_to_file(lines, filename=''):
   global FHANDLERS ;
-  filename  = filename.strip();
+  filename  = filename.strip() ;
   if filename:
     _, ext   = os.path.splitext(filename) ;
   else:            # filename is empty. write to STDOUT
