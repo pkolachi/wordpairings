@@ -22,7 +22,8 @@ Version log:
     - This when I use 100 languages with max 10K vocabulary items
     - in this version, edges are represented using hashtable of pairs 
       and nodes using a hashtable of descriptions
-    - in a typical instance, (106 from 4950) pairs, graph size is (469513, 3387090) 
+    - in a typical instance, (106 from 4950) pairs, graph size is 
+      (469513, 3387090) 
     - this is a reasonably sparsely populated graph with not too huge a 
       vocabulary (say 4*Europarl vcb for a language
   V0.2: simply use list.extend to modify components; that way new lists are
