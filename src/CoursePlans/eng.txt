@@ -1,0 +1,1077 @@
+form a projects develop a small system consisting hardware software according established development process schedule
+document the project work the form eg requirements specification user manual a project report
+may be individual course applied project area where regular courses computer science engineering are lacking
+initiative may come the student faculty member willing supervise the project
+software development c assembly language testing troubleshooting
+programming devices parallel input output time management programming timers
+basics computer communications programming devices serial communications
+moreover a simple time-sharing systems c assembly language special emphasis on the use peripheral circuits is implemented
+examination is based on a written exam approved laboratory exercises
+based on the exam result the grade f 3 4 5 are given
+the theory is acquired lectures demonstrations
+mathematical models are used science engineering describe represent different objects systems analyze understand predict finding the best design strategy
+mathematical modelling is therefore a basic engineering skill
+carefully selected exercises course teaches mathematical modelling as a tool solving real problems
+problems are taken computing traditional engineering disciplines as well as other areas such as economy medicine games
+the course is primarily intended as introduction mathematical modelling students limited experience the use mathematics engineering may come work different areas where mathematics is useful
+application oriented exercises teaching modelling problem solving the course then bridges the gap the theoretical courses mathematics relevant applications
+the most updated information about the course please see the course home page
+the core the course is a number application oriented exercises
+are formulated exploratory style have been carefully selected develop the modelling problem solving skills the student
+the significance different kinds mathematical expressions how can be motivated
+how find fit functions empirical data
+curves computer graphics
+* optimization models
+mathematical programming economics decision support
+* dynamic models
+simulation biology physics engineering
+* probability models
+stochastic simulation
+markov models texts language expert systems
+bayesian inference
+* discrete models
+graphs networks modelling projects activities modelling discrete standard problems boolean logic planning
+* modelling languages
+the exercises as a starting point actively teach modelling problem solving a supervision style develops the independence the student
+also discuss different problem solving strategies reflect on solutions compare different ways solve the same problem
+passed exercise assignments
+the course ends individual summarizing report where the student is encouraged summarize reflect on the course a personal perspective
+see the course home page grading criteria
+attention not only classical mathematical modelling also models common computer science
+* ability create use evaluate mathematical models different possibly new areas application
+* improved general ability solve mathematical problems
+* perspective on the role mathematical modelling mathematics general the professional engineer
+note the emphasis the course is learn new non-trivial skills
+the progress the goals is appropriately assessed different ways the course
+the course is organized weekly modules one model type
+a module is defined introductory lecture exercises the week a compulsory follow-up exercise giving feedback the solved exercises
+the exercises are done groups two persons
+the course also contains introductory final lectures
+emphasis is placed on interactive teaching style a lot direct contact students teachers
+is done supervision sessions where students solve the exercises regularly discuss the teachers
+can then receive individual feedback appropriate guidance own problem solving
+the assessment exercises has been adapted encourage creativity independent problem solving
+as a follow up module the students are asked reflect on own alternative solutions on own problem solving
+the main teaching language is swedish support can be given also english so is possible take the course english the interested student
+learn about common abstract data types data structures algorithms
+abstract data types
+simple complexity analysis
+common data structures such as arrays lists trees hash tables how can be used implement abstract data types such as stacks queues priority queues dictionaries graphs
+standard algorithms data structures resource demands
+iterators
+sorting algorithms
+standard libraries data structures algorithms
+invigilated written exam compulsory programming assignments
+understand use basic abstract data types data structures including lists queues tables trees graphs
+understand use the algorithms used manipulate query basic data structures efficient way understand why are correct
+analyse the efficiency algorithms
+make informed choices different data structures algorithms different applications
+implement abstract data types as interfaces data structures as classes object-oriented programming language
+lectures tutorials programming assignments
+the aim course is teach the fundamental principles the object oriented approach program development how construct object oriented programs
+object oriented development methods are widely spread take a strong position today
+object oriented programs consist a collection cooperating objects
+the objects encapsulate data together methods accessing updating the data
+objects are described data types called classes
+programs are coded java
+fundamental concepts object oriented programming development
+constructors methods fields
+modularisation programs
+using documentation standard class libraries
+program testing
+inheritance dynamic binding polymorphism
+abstract classes interfaces
+graphical user interfaces
+events listeners
+exception handling
+streams files
+introduction active objects threads
+modelling uml orientation
+final grade is obtained passed assignments is based on the grade the written exam
+object oriented methodology is now commonly used the development a variety systems
+uml is used modelling java coding
+fundamental concepts object oriented programming
+differences the object oriented the traditional procedural approaches
+constructors methods fields
+the modelling language uml
+modularisation programs using packages
+inheritance dynamic binding polymorphism
+standard class libraries documentation
+documentation programs using javadoc
+program testing
+structured exception handling
+object relations shallow deep copying
+the structural concepts cohesion coupling refactoring
+final grade is obtained passed assignments is based on the grade the written exam
+construct small object oriented programs
+use a commonly available computer based program development tool
+master techniques data encapsulation inheritance polymorphism object oriented programming language
+uml is used modelling java coding
+object oriented modelling uml
+graphical user interfaces
+a survey common design patterns
+streams files
+parallel programming
+active objects threads
+communication
+ports sockets datagram multicasting client-server
+reflection class loading
+final grade is obtained passed assignments project is based on the grade the written exam
+construct object oriented programs graphical user interfaces threads
+construct object oriented models a graphical modelling language
+use commonly available computer based program development tools
+recent years powerful tools verifying software hardware systems have been developed
+tools rely a crucial way logical techniques
+course provides a sound basis logic a short introduction logical frameworks used modelling specifying verifying computer systems
+a sound basic knowledge logic is a welcome prerequisite courses program verification formal methods artificial intelligence
+cover propositional logic sections 1.1 1.5 predicate logic sections 2.1 2.6 model-checking sections 3.2 3.4
+the students should be able understand use formal tools checking software hardware such as sat-solver model checking tools used software engineering
+theyshould also be able explain the meaning soundness completeness various logic propositional predicate temporal logic write derivation trees natural deduction predicate logic
+two lectures one exercise session week
+the course shall give insight experience the tasks involved the planning carrying a relatively extensive project hard software distribution tasks coordination corporation the group when needed other groups
+the work involves the organization leading the project the development the product as such
+aim is give sufficient knowledge the formulation problems searching information reporting documentation other areas relevant the upcoming thesis work
+the course shall give the student practical experience form working a project group when comes planning construction implementation verification a non-trivial system hard software
+starting grade student will be evaluated may be given a higher lower individual grade
+passed assignments project
+grade u-5
+grade is decided the project
+the final project is done groups four students
+course the students do a project limited time
+the subject can be freely chosen computer science engineering suggested the students potential supervisors
+the project shall be on a nontrivial level
+the project can be done small groups the understanding group members contribute substantially individually
+a final report must be delivered also presented orally
+contents depth clarity will count
+the subject can be freely chosen the area computer science engineering
+the project can either suggested the students a potential supervisor
+written report oral presentation
+grading is based on the quality the written report particular scientific depth technical skill correctness clarity
+the supervisor will recommend a final grade the project approval the course examiner
+the project can be undertaken groups 2-3 students the understanding everyone contributes substantially individually
+the overall aim course is introduce the student the design verification electronic systems
+the course is intended give a solid foundation hdl-based hardware design is necessary the courses follow the eesd curriculum simultaneously giving overview the field electronic system design
+the themes the course are the huge increasing complexity electronic design projects the many design choices necessary the technological developments help determine the best outcome choices
+hdl eda proficiency is examined the lab course the lecture-series overview is examined a sit-down exam
+the final grade is a weighted sum grades lab course the sit-down exam
+suggest how select different technology platforms fpga asic software on processor pcb based on parameters such as design production power costs different technologies
+describe the implementation steps required the design verification test a complex electronic system how steps are related other
+describe how electronic system design projects may be organized steered
+discuss power delivery heat removal electronic systems how design aspects can determine the best implementation strategy
+implement digital parts electronic system using hardware description languages hdls test benches as well as basic electronic design automation eda tools such as hdl simulators synthesis tools
+describe how basic system-oriented design can be carried using model-based design simulation tools are interfaced hardware implementation tools
+a lab series improves hdl eda tool proficiency a lecture series provides the overview
+the first half the lab series is carried individually the second half is carried groups two
+the overall aim the course is the students should learn how critically creatively identify formulate solve a complex design problem
+is achieved letting groups students put the training the fall use designing a complete embedded electronic system
+the project goal varies year year the technical area the project spans embedded software technology platforms such as fpgas asics
+is a course where the students teams undertake electronic product prototype design
+addition student has maintain a personal logbook
+team project is assessed according the two main deliverables a final academic report 40 % the product including product documentation 30 % on the team process 30 %
+the team process is assessed using team individual logbooks agile process documentation supervisor contacts etc.
+the result combined assessment is a team base grade
+individual grade is awarded student based on the contribution the the result three parts
+the individual grade may be higher lower the team base grade
+apply her/his technical expertise a multi-person project where electronic product fpga asic is specified designed implemented verified
+proficiently use modern eda tools fpgas asics
+contribute several team roles a multi-person project where industry-like agile project model is used
+includes planning follow-up trade offs resource constraints
+reflect on the group process a team
+write academic report several authors describing a product-development project correct handling references
+document electronic product technically including testing verification documentation
+the course consists a major project assignment
+the project work is done teams where a number students work together
+the project target technologies are fpga also digital analog asic
+the project work is conducted according a well-known agile project model
+the project is reported orally written reports
+the written reports comprise technical documentation reports required a project model academic report
+computers are a key component almost technical system today functional flexibility as well as ability execute fast a power efficient way
+fact the computational performance computers has doubled 18 months the last several decades
+course covers the important principles how design a computer offers high performance the application software
+the course covers architectural techniques essential achieving high performance application software
+also covers simulation-based analysis methods quantitative assessment the impact a certain architectural technique has on performance power consumption
+also covers how simulation based techniques can be used quantitatively evaluate the impact design principles on computer performance
+2
+the second part covers various techniques exploitation instruction level parallelism ilp defining key concepts ilp is limits
+the techniques covered fall two broad categories dynamic static techniques
+the most important dynamic techniques covered are tomasulo s algorithm branch prediction speculation
+the most important static techniques are loop unrolling software pipelining trace scheduling predicated execution
+3
+the third part deals memory hierarchies
+part covers techniques attack the different sources performance bottlenecks the memory hierarchy such as techniques reduce the miss rate the miss penalty the hit time
+example techniques covered are victim caches lockup-free caches prefetching virtually addressed caches
+also main memory technology is covered part
+4
+the fourth part deals multicore/multithreaded architectures
+the system level deals the programming model how processor cores on a chip can communicate other a shared address space
+finally students get familiar simulation methodologies tools used industry analyze the impact design decisions on computer performance
+light the fact can integrate billions transistors on a single integrated circuit electronic system designers are forced make use computer-aided design tools so-called electronic design automation eda tools manage design complexity meet example strict timing power dissipation time-to-market budgets
+the lecture series mirrors the overall content the course covers terminology structure eda systems
+design electronic systems are based on software hardware
+functional verification
+behavioral logic synthesis
+timing analysis
+power energy analysis
+variability
+physical design
+design test manufacturability
+discrete mathematics optimization relevant eda
+technical writing.beside the lecture on technical writing is also one peer-response workshop where the students get develop writing skills reading commenting on a draft term paper group
+the lecture ethical aspects embedded electronic system design is associated dat110 given dat093 introduction electronic system design as a preparation
+the examination has three parts lab exercises including synthesis place-and-route asics 60 % total course grade is based on quality preparation vhdl handins log books lab report.term paper work teams 3 students on selected topics including a term paper report oral presentation 40 % total course grade is based on quality term paper report oral presentation.ethics assignment individual assignment involves writing a reflective note addresses ethical dilemma research development the technical scope the course is graded either pass fail
+describe contemporary eda design flows fundamental weaknesses strengths3
+apply linux-based eda tools including simple shell scripts design verification digital electronic systems4
+perform timing-driven synthesis power dissipation analysis digital circuits 5
+critically systematically integrate knowledge model simulate evaluate features digital asic design flows6
+clearly unambiguously communicate his/her conclusions laboratory work in-depth term paper studies the knowledge rationale underpinning as well as ethical aspects
+the course is intended give insight how mixed-signal subsystems including a/d d/a converters are specified implemented how affect the performance the system are part
+the course includes sections on sampling quantization converter specification commonly used converter architectures analog interface components such as filters influence converter imperfections on system performance cost limits given parameters
+lab series report submission oral exam voluntary sit-down exam
+final grade is a weighted sum
+lectures introduce material textbook research papers
+lab exercises are based on software simulations mixed-signal subsystems
+students get practical experience languages exemplify a particular paradigm
+the course will also contain introduction programming dependent types constructive type theory
+the course is examined homework oral presentation a take home exam
+the oral presentation is done pairs the student can select either a research paper a chapter the course book involving applications type systems not covered the lectures
+the presentation is judged respect the quality the slides the oral presentation
+completing the course the student should have a solid broad foundation type systems programming languages
+the student will be able design analyse implement type systems also use different application areas
+moreover the student will be able work interactive programming proof system using dependent types
+lectures exercise sessions supervision
+a further goal is the student should be able make ethical considerations his/her work
+group will be allocated a topic the paper is be written
+the paper should be orally presented
+students are also required make peer reviews other papers
+will be lectures seminars workshops the areas scientific writing reviewing presentation as well as ethics
+pass the course the student must 1 write analytical survey paper other scientific paper a given topic a specific research area 2 complete review assignments 3 make oral presentation the paper 4 participate lectures seminars workshops technical writing presentation techniques 5 participate the ethical parts the course complete given assignments the ethics area
+the course organisation includes the following items lectures seminars workshops home assignments report writing oral presentation
+the aim the course is give understanding how programming languages are designed documented implemented
+the course covers the basic techniques tools needed write interpreters gives a summary introduction compilation as well
+when implementing the interpreter compiler will learn about practical implementation concerns as well as the theory formal semantics
+written laboration written exam
+a software product line spl is a set software products share a common managed set features together address the needs a particular market segment mission
+are developed a common set core assets a planned way
+developing large software systems way companies can produce a set products more economically better address product customization better sustain a high rate product development keeping guaranteed levels overall system performance quality
+the purpose the course is give in-depth knowledge the area software product lines as a whole including engineering processes organizational management-perspectives
+the course is based on lectures workshops group assignments
+purpose is give the student a chance learn the basic trades research work is a skill can prove useful already the coming master thesis work
+1
+describe the main phases research work planning execution revision documentation/dissemination3
+a student follows a regular phd student course f3 no participation the activities is required
+a student intends do a research assignment f1 a literature study f2 the following information applies the course spans q1 q2 the student works independent manner
+the beginning q1 student taking the course q1 is required state his/her topic interest set up a work plan defines the scope the goal
+similarly the beginning q2 student taking the course q2 is required state his/her topic interest set up a work plan defines the scope the goal
+the student should approach a suitable chalmers teacher make sure he/she can take on the role
+the supervisor is expected provide guidance the course the very minimum involves reading/endorsing the work plan reading/commenting/grading the final report
+the end q2 the beginning q3 the students present work
+is a follow-up course tda361 computer graphics
+describe more advanced algorithms processes used create computer graphics 3d-games movies
+implement more advanced algorithms generate real-time renderings photo realistic renderings
+~ 16 seminars one 2h-seminar week study period 3 4
+student least 80 % attendance is compulsory pass the course
+the first ~ 5 seminars the presentations are given the teacher other researchers
+the rest the seminars presentations are given the students followed group discussions deepen the understanding the presented algorithms/techniques
+proper software system architecture is instrumental ensuring software-reliant systems achieve business mission goals satisfy required quality attributes such as performance security safety
+end sound architecture principles methods support developing analyzing evolving systems
+a certain class systems e.g. safety-critical systems is outmost importance the quality attribute requirements are satisfied eliminate the risk severe even catastrophic consequences
+architectural modeling verification validation evaluation have shown be effective means significantly increase the overall quality the system
+the purpose course is learn principles methods aid the designer/developer/architect gain increased confidence the architectural design including quantitative modeling qualitative architecture evaluation methods
+the course will also address the specific challenges related scale dynamics heterogeneity as found system systems ultra-large scale systems
+lectures seminars projects
+the examination might vary on instance the course
+standard visual modeling languages such as uml taken the box often do not fit needs
+extending modeling languages necessary constructs features creating complementary languages requires specialist knowledge software modeling
+the purpose course is the student get familiarized contemporary technologies notations creation adaptation transformation modeling languages
+examination consists two parts a written examination 4,5 hec a project examination 3 hec
+the written examination is individual
+the project examination is based on the outcome the group work
+software development organizations need constantly improve become faster better more efficient
+course aims learn scientific approaches particular experiments statistics data collection e.g. as a basis analysis decision support initiatives improve performances software development organizations
+the course prepares students the master thesis project improves the student s ability conduct phd studies
+the course is also examined individual written hall-exam
+the assignments are theoretical practical nature
+1
+d. explain the importance research ethics
+2
+skills abilities a. design empirical study
+3
+usage statistical tools
+the course provides a practical introduction software engineering
+detailed weights grading criteria are available the course pm
+testing is one the most used verification validation technique industry
+course provides the students a general background on testing techniques a focus on the theory practice model-based testing
+the course provides the students a background on the theory practice model-based testing including how testing tools can be used improve software quality
+general test techniques are explained focus on model-based testing
+examination consists two parts a written exam 4.5 hec a hand-in assignments 3 hec
+the students are expected be active the whole mini-module
+the exercises are theoretical practical nature
+initial development is only a small phase a development lifecycle typically followed many years system evolution
+a software engineering perspective phase least as challenging as core development activities are still present many more have been added e.g. variability support change support change management quality management
+the purpose course is familiarise the student situations activities techniques typical software evolution such as adding a new feature refactoring automating variability testing improving performance re-balancing non functional requirements so on
+assessment consists a series poster sessions the semester a final written report 1 group
+the poster sessions are used formative assessment the final report is used summative assessment
+grades are individual based on the content the report the degree contribution the project as a whole
+the grading scale comprises fail u 3 4 5
+grade 3 knowledge goals above must be satisfied
+grade 5 the project as a whole must have managed deliver improved software product the product owning organisation typically open source project got acceptance the improvement
+explain affects the power consumption computer systems especially concerning architecture explain affects the power consumption computer systems especially concerning circuit structures commonly used computer systems explain choice method reporting energy consumption computer systems judge the importance energy consumption societal ethical perspectives interpret requirements on the architecture computer systems meet societal needs such as lower energy consumption
+the course consists a lecture series homework assignments oral written presentations labs
+much the work course will consist independent reading assignments
+students will give frequent oral presentations demonstrate understanding the readings facilitate discussion
+specific skills be practiced range short elevator pitches longer lectures done a team a fun relaxed collaborative setting
+discussions will not only focus on technology also on how technology affects the carbon footprint will likely impact society now future generations
+the aim the course is introduce the principles practice parallel programming a functional programming language
+parallel programming mean programming using multiple hardware cores processors order gain speed
+the course covers approaches parallel functional programming haskell erlang
+covers current research on topics relies heavily on scientific papers as source materials
+the course covers the principles practice parallel programming haskell erlang
+advantages functional approaches parallelism immutability absence data races determinism
+profiling parallel functional programs granularity bottlenecks locality data-dependencies
+parallel functional algorithms divide-and-conquer
+approaches expressing parallelism haskell the eval monad the par monad parallel strategies skeletons data parallelism
+functional approaches gpu programming
+parallelisation distribution erlang
+scalability
+handling errors a massively parallel system
+the grade is determined performance on a written exam
+distinguish concurrency parallelism
+2
+2
+2
+select appropriate form parallel functional programming a given problem expain the choice
+the course is given the form lectures chalmers staff external experts
+students complete obligatory laboratory assignments
+course aims give the student basic general skills heading participating technical development projects entailing coordinated work a project group involving planning execution follow up emphasis on written communication
+the course also aims give the student technical skills the design integration verification hardware software processor-based systems
+design verification a microprocessor system includes a microprocessor peripheral devices is developed specific functionality performance
+methodology project work including planning execution follow up version control
+technical writing including technical documentation minutes final report
+the course is run project groups 6-8 students leads individual grades u 3 4 5 respectively
+the grade is based on different interacting parameters namely the quality project work planning project effort technical quality compliance project plan quality final product quality written communication disciplinary language information structure rhetoric audience adapted argumentation
+assessments are carried four distinct deliverables 1 project plan 2 opposition note on draft the final report 3 project demonstration 4 final report
+addition assessments are done on several occasions the course respect the project meeting management version control
+the assessments above lead a group grade
+based on contribution the project work individual grade may be higher lower the group grade is established
+write a c program a microprocessor focus on management peripherals .3
+demonstrate basic skills managing following up a technical development project a group a handful developers .4
+the support the basic functions a version control system organizing ongoing documentation reports program code .5
+write a basic project plan prior a technical development project .6
+write a project report the conclusion a technical development project as well as critically examine project .7
+reason about choices conclusions background consequences his/her own project as well as project
+initially the lectures introduce the features the microprocessor system facilitate technical assessments system design choices
+addition the early lectures highlight how run document technical development projects including aspects such as technical writing group dynamics version control.the project team is assembled the teacher team selects a project a limited number offered projects
+connection the project selection a project mentor provides support the project is assigned project team
+the first two study weeks the project team is focused on assimilating technical documents on preparing a project plan.the system implementation work commences study week 3 runs supported weekly project meetings continuous documentation the final two study weeks when the work on system verification demonstration preparation final documentation is intensified
+lectures attendance project meeting attendance reports project deliverables
+demonstrate the ability work teams collaborate groups different constitutions backgrounds
+the course gives introduction the smart grid increased dependence on information communication technologies ict
+europe elsewhere the electrical grid is being transitioned the smart grid order increase flexibility accommodate large scale energy production renewable sources
+transition involves other steps the installation new advanced equipment example the replacement traditional domestic electrical meters smart meters remote communication devices example allowing remote access unsupervised energy production site
+the course is built seminars where learn about the design development systems infrastructure applications are related the electric power smart grid a focus on distributed algorithms security
+are expected give presentations as well as participate actively discussions
+completed project written report
+knowledge demonstrate knowledge the smart grid domain particular on ict methods supporting distributed resource management adaptiveness cybersecurity including protocol algorithms design programming evaluation proven experience as well as insights current research development the area
+technical skills demonstrate the ability understand design analyse methods algorithms protocols distributed adaptive cybersecure smart power grid networks methods should aim helping adapt the needs capacities consumers industry society meet the requirements sustainable development economic ecological terms
+distributed computing systems information systems security networking computer communication are important context
+skills ameliorate the ability present complex material a small audience explain complex algorithms concepts
+improve skills running a small team project practice technical writing
+project course setup includes a short sequence introductory lectures given lecturers invited talks the industry will prepare the students allow project groups share a wider common background
+moreover the course setup includes a seminar series on advanced topics related the projects followed a discussion the classroom led expert the area
+the projects will be presented the end the course as a presentation peers as a written report
+the course includes projects are placed a software development company
+the course includes the comparison different methods solve the problems analysis differences theoretical practical considerations how the methods used should be used
+the grades the course are fail 3 4 5
+the course is organized as individual learning course where the student based on approved planning report conduct practical theoretical work a company
+guidelines the basics technical writing
+theories on ethics examples
+introductory lectures on scientific writing ethics several writing exercises supervision
+ensuring quality is a major challenge software development other things due the complexity time pressure cost considerations
+course is aimed students learn modern methods quality assurance software development particular focus on embedded systems web applications
+the course introduces the students the modern methods quality assurance software development
+the purpose the sub-course is assess students practical skills taught the course
+2
+the purpose the questions is assess the students knowledge definitions relevant research the field
+the bachelor thesis also aims develop skills application engineering problem solving research methods
+the main part the bachelor thesis is a project
+the thesis project is presented defended orally
+the purpose a thesis is enable the student develop deeper knowledge understanding capabilities attitudes the context the programme study
+the thesis should be written the end the programme offers the opportunity delve more deeply synthesise knowledge acquired previous studies
+a thesis a master science engineering/master architecture master science programmes should place emphasis on the technical/scientific/artistic aspects the subject matter
+diarienummer c2007/723
+the mpa sends the registration documentation the student education office
+the student education office completes the registration ladok
+see https://student.portal.chalmers.se/en/chalmersstudies/masters-thesis/pages/design-and-publish-masters-thesis.aspx
+the oral presentation must be made english
+the presentation the thesis must be announced the department least two weeks prior the date the presentation
+the purpose a thesis is enable the student develop deeper knowledge understanding capabilities attitudes the context the programme study
+the thesis should be written the end the programme offers the opportunity delve more deeply synthesise knowledge acquired previous studies
+a thesis a master science engineering/master architecture master science programmes should place emphasis on the technical/scientific/artistic aspects the subject matter
+diarienummer c2007/723
+the mpa sends the registration documentation the student education office
+the student education office completes the registration ladok
+see https://student.portal.chalmers.se/en/chalmersstudies/masters-thesis/pages/design-and-publish-masters-thesis.aspx
+the oral presentation must be made english
+the presentation the thesis must be announced the department least two weeks prior the date the presentation
+operating systems exist everywhere where computer systems exist not just desktops servers also vehicles phones embedded industrial systems
+course provides introduction the design implementation operating systems
+the course provides introduction the design implementation operating systems
+topics covered include concurrent processes resource management deadlocks memory management techniques virtual memory processor scheduling disk scheduling file systems distributed file systems micro kernels virtual machines security protection schemes
+written examination
+2
+4
+* implement a piece system-level code the c programming language
+lectures exercises labs
+the course deals design analysis fault-tolerant computer systems
+hardware redundancy triple modular redundancy tmr dual modular redundancy dmr hot cold standby systems hybrid redundancy forward backward recovery etc.
+time redundancy methods detecting tolerating transient faults
+fault-tolerance distributed systems time-triggered systems byzantine failures
+dependability analysis computer systems reliability block diagrams fault-trees markov chain models failure mode effects analysis fmea fault tree analysis fta etc.
+includes two laboratory classes markov chain models stochastic petri nets are used analyze fault-tolerant systems
+the analysis is done using a special computer program
+students are required document the results one laboratory class a technical report
+written exam
+compulsary participation two laboratory classes
+* formulate dependability requirements computer systems used business safety mission-critical applications
+* describe the structure principles commonly used system architectures fault-tolerant computers
+* perform probabilistic dependability analysis computer systems using fault-trees reliability block diagrams time-continuous markov chains stochastic petri nets
+* describe principles properties techniques error detection error masking system recovery
+* master the terminology dependable computing
+* describe basic concepts life-cycle models standards employed the development safety-critical systems
+lectures exercises two laboratory classes
+* the essential elements concepts digital technology different number systems
+* using boolean algebra construct combinatorial networks synchronous sequential circuits
+* the digital building blocks alu data path controller memory input output devices
+* the traditional processor architecture data-path control unit instruction set as a synchronously operating digital machine
+* coding machine language assembly language
+pass the course the student must pass a written examination the laboratory work
+based on the written examination the final grade is either u 3 4 5
+* describe analyze/design the central processing basic parts
+* describe basic exception handling computer systems
+* describe analyze the structure as a programmable digital system
+the student should be able describe analyze construct the combinatorial sequential circuits used build a cpu
+the combinatorial circuits considered here consist mainly simple circuits such as multiplexers de-multiplexers full adders bit shifters etc.
+program assembler * explain the stored program principle
+* describe the model the machine
+* describe analyze design simple assembly language programs organized subroutines
+scheduled teaching consists lectures demonstrations supervised coding simulation exercises
+the theory is presented lectures demonstrations
+the building blocks are subsequently realized hardware the lab sessions
+* the essential elements concepts digital technology different number systems
+* using boolean algebra construct combinatorial networks synchronous sequential circuits
+* the digital building blocks alu data path controller memory input output devices
+* the traditional processor architecture data-path control unit instruction set as a synchronously operating digital machine
+* coding machine language assembly language
+pass the course the student must pass a written examination the laboratory work
+based on the written examination the final grade is either u 3 4 5
+* describe basic exception handling computer systems
+* describe analyze the structure as a programmable digital system
+the student should be able describe analyze construct the combinatorial sequential circuits used build a cpu
+the combinatorial circuits considered here consist mainly simple circuits such as multiplexers de-multiplexers full adders bit shifters etc.
+program assembler * explain the stored program principle
+* describe the model the machine
+* describe analyze design simple assembly language programs organized subroutines
+scheduled teaching consists lectures demonstrations supervised coding simulation exercises
+the theory is presented lectures demonstrations
+the building blocks are subsequently realized hardware the lab sessions
+course is intended give basic knowledge about methods the design analysis real-time systems
+due the extremely high costs associated late discovery problems embedded systems is important follow a good design methodology the development the software hardware
+other programming languages uses monitors semaphores implement functions the course also contains a presentation such techniques
+demonstrate the general principles real-time programming the course also gives examples how techniques are implemented other programming languages such as ada java
+order execute a program containing concurrent tasks is a run-time system real-time kernel distributes the available capacity the microprocessor s the tasks
+the course shows how a simple run-time system is organized
+the run-time system determines the order execution the tasks means a scheduling algorithm
+end the course presents techniques based on cyclic time-table based scheduling as well as scheduling techniques using static dynamic task priorities
+addition protocols the management shared hardware software resources are presented
+many contemporary real-time applications are distributed multiple computer nodes the course also presents topologies medium access mechanisms commonly-used communication networks
+real-time systems where tasks have strict timing constraints is necessary make a pre-run-time analysis the system schedulability
+the course presents three different analysis methods systems schedule tasks using static dynamic priorities utilization-based analysis response-time analysis processor-demand analysis
+conjunction the course also gives account on how derive the maximum resource requirement worst-case execution time a task
+written exam approved laboratory assignment
+describe the principles mechanisms used designing run-time systems communication networks real-time applications
+apply the basic analysis methods used verifying the temporal correctness a set executing tasks
+the course material is examined means a final written exam
+apart the programming cooperating concurrent tasks strict timing constraints the laboratory assignment also encompasses low-level programming hardware devices such as timers network controllers
+parts above must be approved the final grade
+know how search documentation commercial electronic components r b
+understand use relevant parts the documentation existing electronic components be able interconnect r
+perform engineering tradeoffs the design related functionality speed complexity size r p
+manage modern eda tools advantages shortcomings l w b
+debugging the design using computer-based simulators measuring instruments as logic analyzers oscilloscope w b
+complete document a prototype a smaller digital system p r
+produce technical documentation design so is understandable useful people different levels a company r
+muntlig presentation av av arbetet på ett ingenjörsmässigt och professionellt sätt m
+the course begins lecture exercises allows students become familiar cad/eda tools
+the project work is performed groups three four students
+group selects a task own follows a proposal a catalog projects
+construction work is presented a written report
+the course concludes a seminar mandatory attendance where projects are presented
+the course gives basic knowledge the security area i.e. how protect system intentional intrusions attacks
+modeling assessment security dependability as well as metrication methods are covered
+a few lectures a holistic security approach is taken organizational business-related social human legal ethical aspects are treated
+introduction computer security definitions terminology standards
+information hiding steganography covert channels
+laws ethics
+completing the course the student shall have acquired the following knowledge goals
+gives overview the field
+1975 2005 the computer industry accomplished a phenomenal mission 30 years put a personal computer on desk pocket
+2005 however mainstream computing hit a wall the industry undertook a new mission put a personal parallel supercomputer on desk home pocket
+2011 completed the transition parallel computing mainstream form factors the arrival multicore tablets smartphones
+soon build multicore will deliver mainstream quad eight-core tablets even the last single-core gaming console will become multicore
+the first time the history computing mainstream hardware is no longer a single-processor von neumann machine
+power temperature have joined performance as first-class design goals
+high-performance computing platforms now strive the highest performance/watt
+course looks the design current multicore systems eye how designs are likely evolve the next decade
+also cover the historical origins many design strategies have re-emerged current systems different forms contexts e.g. data parallelism vliw parallelism thread-level parallelism
+important concepts covered are cache coherence consistency
+concepts covered are routing switching topology design scalable interconnects
+a common thread running parts is a discussion cost tradeoffs respect performance power energy verifiability programmability maintainability
+a second unifying theme is the memory bottleneck the importance efficient resource management
+multi-week written project rather a conventional exam
+important concepts covered are cache coherence consistency
+study bus-based snoopy-cache protocols the inclusion property multi-phase protocols
+the fifth part deals scalability parallel computers i.e. architectural techniques scaling the number processors a higher count specifically respect cache coherence protocols
+the sixth part deals interconnection networks essential component chip multiprocessors scalable parallel computer systems
+concepts covered are routing switching topology design scalable interconnects
+a common thread running parts is a discussion cost tradeoffs respect performance power energy verifiability programmability maintainability
+a second unifying theme is the memory bottleneck the importance efficient resource management
+example project topics include multithreading relaxed memory consistency models prefetching memory access scheduling
+multi-week written project rather a conventional exam
+the course is intended give fundamental knowledge about analysis synthesis optimization combinatorial sequential digital circuits
+the course also presents the technologies used implementing such circuits
+as part the course the student will be introduced a modern computer-based design tool cad learn the basics hardware description language
+1
+recognize the function uses reconfigurable asic technologies
+2
+skills abilities minimize a boolean function derive canonical form
+create test benches vhdl designs validate correct functionality
+use fpga technology implement a digital hardware design
+3
+lectures labs
+the course aims convey how a modern computer system is constructed how hardware modules interact eachother low level software
+performance issues are particularly emphasized many design decisions are made maximize performance a given cost minimize cost a given performance level
+written exam
+read write simple assembly programs a typical three-address register machine
+identify the basic types conflicts occur as a result pipelining the datapath a processor
+identify describe simple methods avoid work conflicts describe limitations simple methods estimate influence on performance
+use arithmetic instructions integer floating-point a correct way
+describe the function performance influence a memory hierarchy including caches main memory virtual memory including different parameters size block size associativity
+compute the performance simple load cases i/o system particularly one consisting processors buses hard disks
+identify performance bottlenecks such a system
+explain how computer system performance is defined measured
+estimate the influence parameter changes on system performance above
+give overview the architecture a multicore processor
+the course contains lectures group exercises lab work using a simulator a small computer system
+the laborative part ends a hand-in task
+computer networks are becoming inherent increasingly important part many technical areas today
+course focuses on the parts data communication practicing engineers normally will encounter daily work
+is a basic course offers introductory presentation data communication computer networks
+03
+04
+09
+10
+traditional lectures will be given where basic theory important concepts are presented order complement support the course textbook
+lectures are given week
+computer networks are becoming inherent increasingly important part many technical areas today
+course focuses on the parts data communication practicing engineers normally will encounter daily work
+is a basic course offers introductory presentation data communication computer networks
+have good knowledge reference models computer communication terms function services protocols
+03
+have good knowledge the tcp ip model the structure architecture 05
+have a good understanding the limitations respect service warranties connection newly developed services .08
+explain how different types computer networks are constructed relative the transmission characteristics bandwidth requirements coding methods functions error flow control
+09
+10
+as a complement the lectures consultation sessions will be offered
+a selection optional homework problems are given order provide additional insight the course material as well as demonstrate the level understanding required solving homework assignments
+computer networks cover a range sub-specialties including computer communication network concepts protocols network security bsd socket api distributed fault-tolerance methods
+mastery computer network involves theory practice the design implementation use network protocols services
+the aim course is learn design analyze network protocols gain knowledge existing communication networks including supporting systems protocols fundamental tasks methods data communication networks
+experience network oriented programming is part the course
+course offers learning experiences involve hands-on experimentation analysis as reinforce student understanding concepts application real-world problems
+knowledge understandingyou should be able demonstrate a broad knowledge internet technology the domain name systems
+written exam home assignments labs lectures exercises home assignments laboratory assignments
+modern software development industry has adopted agile principles methods order e.g. increase customer focus increase speed development releases embrace changes
+course aims learn about software design development using approaches principles theory practice
+the course covers the extreme programing process project management
+agile project management the agile manager role agile processes organic teams apm principles practices extreme programing tools eclipse junit ant cvs
+written exam maximum 60 points
+pass a minimum 24 points passed projects are required
+real-time systems play a vital role many application domains including drive-by-wire automotive systems intelligent traffic control systems banking systems autonomous robots
+many real-time applications the system must be designed multiple processors order meet imposed application constraints
+characteristics real-time systems application constraints design methods task models run-time mechanisms architectures
+evaluation real-time systems performance measures evaluation methodologies
+single multiprocessor scheduling problem definition terminology algorithms
+fault-tolerance techniques real-time systems models algorithms architectures
+distributed clock synchronization
+estimation worst-case task execution times
+the final grade is a weighted sum
+master the terminology scheduling complexity theory
+describe the principles mechanisms used scheduling task execution data communication real-time systems
+derive performance be familiar the theoretical performance limitations a given real-time system
+* the essential elements concepts digital technology different number systems
+* using boolean algebra construct combinatorial networks synchronous sequential circuits
+* the digital building blocks alu data path controller memory input output devices
+* the traditional processor architecture data-path control unit instruction set as a synchronously operating digital machine
+* coding machine language assembly language
+pass the course the student must pass a written examination the laboratory work
+based on the written examination the final grade is either u 3 4 5
+* describe analyze/design the central processing basic parts
+* describe basic exception handling computer systems
+* describe analyze the structure as a programmable digital system
+the student should be able describe analyze construct the combinatorial sequential circuits used build a cpu
+the combinatorial circuits considered here consist mainly simple circuits such as multiplexers de-multiplexers full adders bit shifters etc.
+program assembler * explain the stored program principle
+* describe the model the machine
+* describe analyze design simple assembly language programs organized subroutines
+scheduled teaching consists lectures demonstrations supervised coding simulation exercises
+the theory is presented lectures demonstrations
+the building blocks are subsequently realized hardware the lab sessions
+* the essential elements concepts digital technology different number systems
+* using boolean algebra construct combinatorial networks synchronous sequential circuits
+* the digital building blocks alu data path controller memory input output devices
+* the traditional processor architecture data-path control unit instruction set as a synchronously operating digital machine
+* coding machine language assembly language
+pass the course the student must pass a written examination the laboratory work
+based on the written examination the final grade is either u 3 4 5
+* describe basic exception handling computer systems
+* describe analyze the structure as a programmable digital system
+the student should be able describe analyze construct the combinatorial sequential circuits used build a cpu
+the combinatorial circuits considered here consist mainly simple circuits such as multiplexers de-multiplexers full adders bit shifters etc.
+program assembler * explain the stored program principle
+* describe the model the machine
+* describe analyze design simple assembly language programs organized subroutines
+scheduled teaching consists lectures demonstrations supervised coding simulation exercises
+the theory is presented lectures demonstrations
+the building blocks are subsequently realized hardware the lab sessions
+software development c assembly language testing troubleshooting
+programming devices parallel input output time management programming timers
+basics computer communications programming devices serial communications
+moreover a simple time-sharing systems c assembly language special emphasis on the use peripheral circuits is implemented
+examination is based on a written exam approved laboratory exercises
+based on the exam result the grade f 3 4 5 are given
+the theory is acquired lectures demonstrations
+software development c assembly language testing troubleshooting
+programming devices parallel input output time management programming timers
+basics computer communications programming devices serial communications
+moreover a simple time-sharing systems c assembly language special emphasis on the use peripheral circuits is implemented
+examination is based on a written exam approved laboratory exercises
+based on the exam result the grade u 3 4 5 are given
+the theory is acquired lectures demonstrations
+algorithms data structures comprises fundamental components most modern software products
+knowledge skill techniques the construction analysis algorithms are important tools the construction correct efficient programs
+knowledge data abstraction data structures is important the construction use maintenance adaptable reusable program components
+java is used coding
+algorithm techniques iterative recursive algorithms proof induction divide conquer backtracking dynamic programming
+analysis the resource demands algorithms data structures respect computation timed memory consumption
+asymptotic complexity average complexity worst case complexity
+linear binary search
+sorting algorithms properties
+the concepts abstract data type data structure
+data structures vectors strings stacks queues lists trees binary search trees hash tables priority queues graphs sets
+common applications
+standardised algorithms classes data structures
+implementation data structures
+mandatory assignments written exam
+final grade is obtained passed assignments is based on the grade the written exam
+perform analysis the resource demands algorithms data structures
+use standard software libraries data structures algorithms
+implement data structures object oriented language
+the following concepts will be described different levels the course process process communications critical regions semaphores mutual exclusion synchronizations deadlock memory management timing constraints soft/hard systems scheduling time event trigged systems schedulability analysis systems static dynamic process priorities distributed real-time systems data communications small embedded real-time embedded systems
+the course describes the implementation a small real-time kernel a microcomputer system
+the course also includes use arrays stacks c-programs connection exercises studies a real time kernel
+a large laboratory assignment a final laboratory report gives experience software development embedded systems
+the course ends a written exam
+the final grade according the scale fail passed grades 3-5 are given based on the written exam the laboratory assignment
+describe understand the general structure the function a real-time kernel small embedded system
+develop programs composed multiple processes small systems support a real-time kernel
+use pointers dynamic memory allocation connection development c-programs managing arrays stacks
+explain the meaning the differences the concepts static respective dynamic scheduling
+apply schedulability analysis on small systems composed several well-specified processes timing constraints period deadline
+describe the general structure characteristics the can protocol
+develop programs a distributed real-time system consisting nodes connected a can-bus
+the course is organized lectures exercises a laboratory assignment
+the framework the laboratory assignment collaboration the course lsp580 english the course will include training oral written proficiency
+reference models data communications
+the www dns e-mail
+the socket api
+biterror flow congestion control
+internet protocols
+arp icmp
+routing algorithms routing protocols
+rip ospf bgp
+mac algorithms
+link protocols error detection codes
+multimedia applications
+security computer networks
+firewalls packet filtering securing wlans
+common most the outcomes is are assessed written exam
+the course includes compulsory assignments consist three laboratory assignments one home assignment
+pass the entire course is required laboratory work home assignments are approved pass
+laboratory work home assignments will be done groups two students
+the outcome 9 is about trying look deeper knowledge data communications field the group will be required a mandatory home assignment containing a number sub-tasks include the task obtaining deeper knowledge
+the assignment will be reported must be approved review examining teacher teaching assistant otherwise will be returned feedback the completion final approval
+outcomes 10 11 have a practical nature are examined the teacher teaching assistant supervises observes students a laboratory work ca 12h divided three labs
+common outcomes 10 11 is the sudents have record the results answers questions the lab-pm when work practice the lab tasks
+addition order finally examine the outcome 10 a written report the results is required
+the report must be approved review the same manner as the assignment
+the final grade scale u/3 -5 is based on the exam results
+show basic knowledge skills the field data communications computer networks
+show good knowledge layered reference models data communications terms function services protocols
+make use layered reference models create understanding on the design usage various computer networks
+show good knowledge the principles protocols standards used tcp/ip-based networks
+show basic knowledge the most important application protocols
+show good knowledge the tcp ip model on the structure architecture work a basic ip addressing plan intranet
+show good understanding the limitations the internet on the provided services as well as the impact on the newly developed applications services
+describe how different types computer networks are constructed relation the transmission characteristics the requirements bandwidth coding methods functions error flow control
+seek deeper knowledge specific standards protocols data communications field
+use network analysis software analyze data traffic on a local network internet access
+show basic practical skills the configuration local networks
+the course comprises also self-study a web-based course material
+the aim course is the students will be able acquire a deep solid knowledge practical skills internetworking network equipment particular ip routers routing lan-switches wan technologies
+the intention is also the student will have the proficiency work self-confidently planning configuration maintenance internet-connected local networks small larger office environment
+the course comprises basic skills knowledge the internet technology tcp/ip protocol suite particular the internet access routing protocols
+the course is mainly focusing on the operation engineering ip routers ethernet switches
+tcp/ip-architecture the internet
+application transport layer protocols
+local area networks lan ethernet technology
+routing switching essentials managing the router as a core internetworking device basic router configuration routing path determination algorithms routing protocol rip as distance-vector routing protocol
+ip addressing variable subnet mask vlsm addressing methods dynamic ip configuration dhcp och address translation nat
+routing autonomous system as
+routing protocols vlsm subnetting ripv2 eigrp the standard link-state routing protocol ospf
+switching basics
+spanning tree protocol stp
+virtual lans frame-tagging
+routing vlans
+scaling networks configuring routers switches advanced functionality considering the architecture components operations larger more complex networks
+troubleshooting routers switches resolve common issues using single-area ospf multiarea ospf enhanced interior gateway routing protocol eigrp stp ipv4 ipv6 networks
+acquiring the knowledge skills needed install a wireless lan wlan a small medium-sized networks
+implementing vlans rapid spanning tree protocol rstp vlan spanning tree plus protocol pvst etherchannel
+connecting networks wan technologies network services required converged applications a complex network
+link protocols wans e.g. hdlc point-to-point ppp protocols frame relay
+broadband serial connections
+knowledge skills needed implement virtual private network vpn
+network monitoring troubleshooting using syslog snmp netflow
+borderless networks data centers virtualization
+the course is divided three parts basic routing switching routing och switching complex networks wan access
+part is graded same examination methods
+the intended outcomes are examined three ways
+the first is direct supervision the examiner assistants the lab sessions then assesing the laboratoriework lab-skills exam laboratory the end part
+the second is evaluating the results the case study will be worked relation part
+the work the case study is done electronically using network simulator delivering the results as uploaded files simulation diagram tables report
+the third is evaluating oral presentation opponents a selected topic a seminar active attention the whole class
+the examination is obviously a continous process the course
+the mandatory activities tasks will be evaluated awarded due demonstrating the results a suitable form mainly reports presentations
+the activities are labs case studies seminars lab-skills exams homeworks
+the grading grades th is based on the sum the results gained activities tasks more details are available the homepage the course
+1
+design implement effective efficient ip addressing subnetting based on combinations the techniques variable length subnet mask vlsm network address translation nat dynamic host configuration protocol dhcp
+2
+work a basic configuration ip router connecting a local network the internet
+3
+analyze configure implement verify access control lists a router configuration filter packets accordance a predefined local policy internet access
+4
+configure evaluate the major characteristics the most used routing protocols autonomous system routing information protocol rip the open shortest path first ospf
+5
+use tcp/ip utilities tools troubleshoot the network configuration connectivity issues the network equipment
+6
+configure administer a switch switched ethernet lan redundant cabling possibly functional groupings based on virtual lans vlans
+7
+configure administer inter-switch vlans on ethernet switches activate inter-vlan routing on router
+8
+the course includes mainly 14 lectures presentation seminars 17 labs 3 case studies 3 lab-skills exams 2 homeworks
+is also a moment self-studying a web-based course material
+* the essential elements concepts digital technology different number systems
+* using boolean algebra construct combinatorial networks synchronous sequential circuits
+* the digital building blocks alu data path controller memory input output devices
+* the traditional processor architecture data-path control unit instruction set as a synchronously operating digital machine
+* coding machine language assembly language
+pass the course the student must pass a written examination the laboratory work
+based on the written examination the final grade is either u 3 4 5
+describe basic exception handling computer systems
+the combinatorial circuits considered here consist mainly simple circuits such as multiplexers de-multiplexers full adders bit shifters etc.
+the theory is presented lectures demonstrations
+the building blocks are subsequently realized hardware the lab sessions
+the course is introduction software development the language c
+the course teaches how implement a solution the form a computer program c language a defined problem
+the course covers identifiers variables types expressions operators statements functions program structure characters strings pointers arrays dynamic memory management lists file management the standard library
+the course begins introduction a development environment
+written exam 6 credit points a compulsory assignment 1.5 credit points
+the first ordinary exam the next two offered re-examinations the course is possible add up five bonus points exam scores completed passed assignments
+the final grade is based solely on exam results including bonus points
+implement a solution c language the problem
+software development c assembly language testing troubleshooting
+programming devices parallel input output time management programming timers
+basics computer communications programming devices serial communications
+moreover a simple time-sharing systems c assembly language special emphasis on the use peripheral circuits is implemented
+examination is based on a written exam approved laboratory exercises
+based on the exam result the grade u 3 4 5 is given
+the theory is acquired lectures demonstrations
+the work is preferably carried groups two students can also be performed individually
+the overall aim the course is introduce the student the field cmos integrated circuit design give introductory training the use industrial electronic design automation eda tools understanding role the integrated circuit design flow
+technology node independent performance models power speed are presented giving the student generic tools estimate cost performance properties circuits present future cmos technologies
+introduction cmos integrated circuit design basic building blocks technology platforms design tools
+hands-on design skill training using industrial electronic design automation eda tools
+the mosfet as a digital switch
+the two-port as a static dynamic model
+static cmos logic gates
+designing logic gates pull-up pull-down networks
+the two-port as a dynamic switching model
+input load capacitances output driving capability
+technology independent delay measures
+definition logical effort parasitic delay electrical effort fanout
+critical path delays
+basic layout using standard-cell layout templates
+the adder as a design demonstrator
+ripple carry carry look-ahead prefix-tree adders
+interconnect wire delay
+the rc two-port wire model
+delay model
+repeaters
+latches flip-flops
+metastability
+power gating
+clock gating
+pass the course 50 % the points the written examination is required
+hand-in problems can give bonus points can be used reach grade four five
+bonus points can not be used pass the course achieve grade three
+design static cmos logic gates pull-up pull-down networks implement as standard cells
+simple mos transistor models estimate static dynamic properties cmos inverters use properties model more complex gates
+the course is organized as a bottom-up sister course the top-down organized introduction electronic system design
+genetic information is stored the dna molecule as a linear sequence bases
+the course gene expression sequence is translated a sequence amino acids a protein
+the sequence amino acids turn determines the three-dimensional shape biological function the protein
+as dna sequencing technology has been dramatically improved recently are facing a vast amount data basic science as well as areas such as clinical medicine
+analysis dna rna protein sequences will therefore play essential role coming years
+the aims such analysis include genome analysis structural functional prediction elucidation the molecular basis human disease understanding fundamental biological systems reconstruction evolutionary history
+the course illustrates how bioinformatics solutions are applied addressing biological problems the theoretical principles solutions are discussed
+the course covers basic methods used sequence analysis such as pairwise multiple alignment searching databases sequence similarity profiles pattern matching hidden markov models rna bioinformatics gene prediction methods principles molecular phylogeny
+the course includes modern high-throughput sequencing techniques applications as well as molecular biology databases different systems query such databases
+the course considers theoretical principles as well as how existing programs are being used bioinformaticians
+the student is examined 5-8 obligatory computer practicals a written exam
+avoid unnecessary complexity one often chooses study computation simplified powerful models
+the course several such models will be studied imperative functional
+one more models will be used explore the limits computation problems can not be solved the confines a given model programs can run arbitrary programs modelled a certain way
+the course also includes a discussion the church-turing thesis a hypothesis states roughly a function is computable a certain intuitive sense only can be defined one several models computation
+the course is examined individual written examination carried examination hall individual written assignments
+a characteristic property problems are are difficult solve
+the course intends develop the skill modelling real problems use mathematical algorithmic tools solve optimally heuristically
+assignments exam equal weightage
+lectures homework assignments
+as the course laboration the students build a complete compiler a simple imperative language
+theory implementation compilers emphasis on the backend phases code generation runtime environments
+compiler project oral presentation
+grading scale f 3 4 5
+the teaching consists lectures a project as well as individual supervision connection the project
+the aim course is introduce students the two most important styles formal methods reasoning about software automatic interactive methods
+property languages usage
+interactive theorem prover is used formally verify statements about specifications programs
+pass the whole course is necessary pass written exam labs can be passed independently
+case pass the grade is determined the result the exam
+lectures contain hands-on exercises
+fault-tolerant multicast
+resource allocation
+distributed algorithms how design analyze distributed algorithms
+sensor networks energy efficient distributed designs
+denial service attacks
+get a good understanding on the advances technologies system architectures communication architectures propelled the growth distributed computing systems
+understand appreciate the challenges opportunities faced distributed systems sensor networks application designers
+design program evaluate representative distributed systems applications
+the focus lies on library design the concept embedded languages
+the big advantage functional languages is language constructions can be given names thereby reused using higher order functions
+functional programs can therefore often be constructed composing constructions a library
+method enables a way construct programs quickly a high degree correctness
+is the central idea course
+can learn a lot studying the standard library list functions such as map fold so on
+functions can be generalised operate on other datatypes
+realistic functional programs must also handle changes state exceptions backtracking other non-functional behaviours
+will look how can be modelled a purely functional manner
+the concept monads will help here
+armed knowledge will construct domain specific libraries designed construct programs a certain application domain
+type library can be said define a domain specific language the constructions the programmer uses construct larger programs mainly consists library functions
+will study libraries parsing pretty printing graphics pseudo-parallel programming interaction
+the course will also present recent research can make the contents the course vary degree
+the programming language used the course is haskell
+are 2-3 compulsory programming labs done pairs a short written examination the end the course
+the course aims provide overview cryptographic concepts primitives protocols applications
+basic goals cryptography confidentiality authentication non-repudiation
+the course aims provide overview cryptographic concepts primitives protocols applications
+basic goals cryptography confidentiality authentication non-repudiation
+symmetric key cryptography block stream ciphers design principles examples modes operation message authentication codes
+attack models security notions
+protocols key management authentication other services
+written examination compulsory programming assignments
+discuss use features different data models the entity-relationship model the relational model the semi-structured model
+2
+apply design theory relational databases
+3
+describe the effect indexes transactions a relational database
+4
+describe how access can be controlled user authorisation
+implement a database design using a data definition language
+2
+query modify data using a data manipulation language
+3
+express queries relational algebra
+4
+implement a database application a host language
+construct entity-relationship diagram a given domain
+2
+design implement a database application meets given requirements
+the course consists weekly lectures exercise sessions
+using the database external application
+the course provides knowledge the principles used create images computer algorithms
+describe the fundamental algorithms processes used create computer graphics 3d-games movies
+the course is organized lectures exercises
+the exercises focus on implementing 3d graphics algorithms using c c++ possibly java
+the project course is designed give knowledge experience professional development software
+the course aims * give knowledge about practice methodology technical development projects particular software projects
+* give experience phases development including problem identification problem formulation information retrieval usage analysis system analysis debriefing evaluation etc. * train problem solving skills
+* train the ability cooperation communication
+the course presents a simple test driven object oriented process
+concepts as iterative development object oriented analysis design domain designmodel domain driven design are introduced
+aspects design are discussed testability dependencies partitioning layering more
+the examination consists the oral presentation the delivering och the source code other artifacts
+grade f 3 4 5
+the project includes weekly obligatory supervisor meetings
+concurrent programming plays a vital role systems where many events appear occur simultaneously
+general concepts parallelism interference synchronization critical regions mutual exclusion deadlock fairness livelock
+synchronization using shared variables busy waiting
+semaphores
+monitors
+synchronous message passing extended rendezvous
+asynchronous message passing erlang
+asynchronous coordination linda
+standard algorithms on structures
+standard algorithms libraries
+laborations written exam
+course introduces a functional programming language related concept students already have knowledge programming
+the primary goal is enable students write realistic small medium-size programs introducing the fundamental concepts computer science
+the course is examined individual programming assignments written assignments oral presentations
+today the object-oriented view has a very strong position the area program development
+programs are constructed according view object-oriented programs consist a number co-operating parts called objects
+the objects encapsulate data offer methods read update the data
+the objects are described so called classes
+the aim the course is teach the principles the object-oriented view how object-oriented programs are constructed
+the course discusses basic concepts imperative object-oriented languages as realized java
+explain basic concepts imperative object-oriented programming particular as are realized the chosen programming language
+describe standard algorithms e.g. searching sorting know how find the standard libraries
+define classes model simple phenomena object-oriented style encapsulated data is read updated using public methods
+define simple subroutine libraries using the data types control structures the chosen language
+course is introduction imperative programming software development
+the course aims provide basic skills programmatic problem solving using imperative methods give a first look the craft programming
+* describe the principles object-oriented programming apply a programming context explain how are realized a particular object-oriented language
+* evaluate different features programming the large assess benefits risks respect different design goals make proper choices
+software development is central a software engineer
+course presents the object-oriented programming paradigm puts emphasis on the design object-oriented programs
+* more in-depth treatment the terms implementation inheritance specification inheritance abstract classes dynamic binding encapsulation information hiding
+* introduction uml
+* fundamental design principles such as dependency inversion principle open-closed principle liskov substitution principle single responsibility principle separation concern principle law demeter interface segregation principle
+* generic program components
+* canonical form classes equals hashcode clone tostring serialization
+* contract based design preconditions postconditions class invariants assertions
+* mutable immutable objects
+representation exposure
+* inner classes anonymous classes
+* exception handling
+* common design patterns such as singleton factory method template method strategy decorator adapter iterator observer state façade mvc
+* refactoring
+* i/o framework constitution
+* threads thread safety race conditions deadlocks critical regions sychronization
+will be conducted the form a written examination laborations
+the final grade is assigned as u 3 4 5 based on the result on the written examination
+* describe the principles object-oriented programming apply a programming context explain how are realized a particular object-oriented language
+* use uml class diagrams plan document design accessible way
+* evaluate different features programming the large assess benefits risks respect different design goals make proper choices
+* apply a number common design principles patterns achieve a design facilitates maintenance reuseability
+* implement generic program components
+* use describe how application framework can be constituted
+* describe different criteria principles good program design
+the education consists lectures exercises laborations supervision conjunction
+is introductory course programming using the functional language haskell as the medium instruction
+the primary goal is enable students write realistic small programs real world applications introducing the fundamental concepts computer science
+secondary goals are provide orientation regarding the courses come particularly data structures algorithms digital circuits formal methods programming language courses offer insight careers computing invited speakers
+values types functions
+compound data structures lists tuples user-defined types
+top-down program design
+recursion recursive types
+concept time complexity good bad algorithms
+input-output
+higher-order functions bulk data operations
+written exam compulsory laboratory exercises
+write small functional programs various applications
+the aim the course is provide a basic understanding techniques cope errors programs skills how employ techniques
+reoccurring themes are a the identification errors b analysis c removal
+the course also provides understanding skills systematic ways creating evidence a program unit really does should
+the course is concerned imperative programs general object-oriented programs particular
+the laborations are usually done groups 2-3 students
+case a practical hand-in assignment is not passed the first attempt the student is granted a second try
+the exam the labs can be passed independently
+model-driven system development has become a popular way building software systems
+correctly used models leads software systems are easy extend reuse maintain
+the purpose course is provide knowledge about how develop software system models
+course will study how develop a software system using analysis design principles also how models can be made executable
+will model static dynamic behaviours example interaction objects components state changes objects the class structure a system
+the focus course is on the analysis design phase
+the student must attend the weekly meetings participate the project work
+the final grade will be decided on the project report the contribution the project
+apart a report the project will be orally presented
+the course students will be asked theoretical questions regarding literature lectures
+* write a domain model according domain descriptions
+* realise use-cases using uml interaction diagrams state charts class diagrams
+a project will be carried the course
+why are computing systems becoming increasingly distributed
+how can build reliable fault-tolerant distributed systems
+why does the internet scale billions users
+how are modern distributed systems such as the cloud the smart grid connected cars built
+are a few questions course on distributed systems addresses
+the goal the courses is understand the design distributed systems discuss the underlying principles mechanisms drive distributed systems
+lectures provide the required fundamentals labs give a hands-on experience developing distributed systems exploring real-world challenges
+begin the course introduction the basic concepts distributed systems the challenges pose
+1
+describe applications distributed systems the mechanisms use provide services
+lectures home assignments laboratory assignments
+how fast can the solution be
+is efficient algorithm
+tools analysis algorithms
+o-notation
+analyzing loops recursive calls
+solving recurrences
+data structures algorithms
+review basic data structures
+combining data structures
+dynamic programming
+backtracking implicit search trees
+branch-and-bound
+short introduction local search approximation algorithms
+basic complexity theory
+complexity classes p np npc reductions
+examples np-complete problems
+coping hard problems
+intractability recognize intractable problems other classes problems p np npc
+prove the correctness algorithms
+skills abilities design apply the main design techniques efficient algorithms instance greedy dynamic programming divide-and-conquer backtracking heuristics problems are similar the textbook examples new
+implement algorithms properly evaluate theory experiment
+judgement approach critically assess algorithmic ideas demonstrate the ability resist the temptation create obvious seemingly plausible algorithms often turn be incorrect
+however be aware is not a course programming
+the main focus is on the design algorithms a given problem specification the analysis efficiency algorithms
+the course is given as lectures combined tutorial groups problem solving related the course programming exercises laboration a number assignments intended develop the skill analyzing designing algorithms
+artificial intelligence ai studies how computers can accomplish tasks were traditionally thought require human intelligence
+the aim course is give a deepened understanding the possibilities the limitations ai methods
+design program document evaluate ai-based software system so has acceptable performance
+apply the knowledge gained course new problems the ai domain
+write scientific reports
+summarize relate different ethical arguments favor ai
+the smaller part is theoretical consists lectures exercises cover the most important ai topics
+the larger part the course consists project work groups complete a programming project write one essay read comment on the work the other groups the course
+the students form project groups the groups are assigned supervisors programming projects essay subjects
+lectures exercises laborations
+course presents the theory finite automata regular expressions context-free grammars
+also includes a short introduction turing machines.finite automata regular expressions are one the first simplest models computations
+mathematical theory is quite elegant simple
+the first 8 chapters introduction automata theory languages computation hopcroft motwani ullman
+formal proofs
+finite automata regular expressions algorithms connecting the two notions
+context-free grammars
+pumping lemma properties regular context-free languages
+short introduction push-down automata turing machines

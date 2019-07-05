@@ -1,0 +1,61 @@
+#!/bin/sh
+
+WORK="/tmp/cplex-ssh-cache"
+
+## preparation
+
+FILE="$1"
+mkdir -p "$WORK"
+cp "$FILE" "$WORK/input.lp"
+cd "$WORK"
+echo miss > cache
+
+## check cache
+
+find -name 'c-input-*' | while read CFILE
+do
+  if diff "input.lp" "$CFILE" > /dev/null
+  then
+    echo "(cplex cache using $WORK/$CFILE)" 1>&2
+    touch "$CFILE"
+    cat "`echo $CFILE | sed 's!input!output!'`"
+    echo hit > cache
+    exit 0
+  fi
+done
+
+if [ `cat cache` = miss ]
+then
+
+## copy the file to the server, run cplex
+
+scp input.lp cth:/tmp/input.lp
+ssh cth "./cplex-solve /tmp/input.lp" > output
+
+## remember this in the cache
+
+ID="0"
+if [ -f "id" ]
+then
+  ID="`cat id`"
+fi
+
+ID="`expr $ID + 1`"
+echo "$ID" > id
+
+cp "input.lp" "c-input-$ID"
+cp "output" "c-output-$ID"
+
+## clean up cache
+
+ls c-input-* --sort=time --reverse | head -n -16 | sed 's!c-input-!!' | while read ID
+do
+  rm -f "c-input-$ID" "c-output-$ID"
+done
+
+## output result
+
+cat output
+
+fi
+

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+X=0
+ls | while read F
+do
+  X="`expr $X + 1`"
+done
+
+echo "$X"

@@ -1,0 +1,1077 @@
+i projektform genomföra utveckling ett mindre system bestående hård- mjukvara en fastställd utvecklingsprocess tidsplan
+dokumentera projektarbetet i form t ex kravspecifikation användarmanual samt en projektrapport
+kan en läskurs erbjudas något område där kurser saknas alternativt genomförs ett tillämpningsinriktat projekt
+initiativet kan komma studenten själv lärare som har förslag projekt kan erbjuda handledning
+programutveckling i c assemblerspråk test felsökning
+programmering kretsar parallell in- utmatning tidshantering programmering räknarkretsar
+grunderna datorkommunikation programmering kretsar seriekommunikation
+dessutom implementeras ett enkelt tidsdelningssystem i c assemblerspråk speciell tonvikt användning periferikretsar
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u 3 4 5
+teorin inhämtas föreläsningar demonstrationer
+matematiska modeller används vetenskap ingenjörskonst beskriva representera olika slags objekt system analysera förstå förutsäga samt hitta bästa konstruktionen strategin
+matematisk modellering är därför en grundläggande ingenjörsfärdighet
+noggrant utvalda övningsuppgifter lär kurs ut matematisk modellering som ett verktyg lösa verkliga problem
+problemen är tagna datavetenskap traditionella ingenjörsämnen liksom ekonomi medicin spel
+kursen är främst avsedd som en introduktion matematisk modellering studenter begränsad erfarenhet hur matematiken används olika ingenjörsområden som kan komma arbeta olika områden där matematisk modellering är användbart
+tillämpningsorienterade uppgifter lära ut modellering problemlösning fyller då kursen igen luckan teoretiska matematikkurserna relevanta tillämpningar
+mest aktuella informationen kursen se kursens hemsida
+kursens kärna är ett antal tillämpningsorienterade övningsuppgifter
+uppgifterna är formulerade ett utforskande sätt har noggrant valts utveckla studentens förmåga modellera lösa problem
+betydelsen olika matematiska uttryck hur kan motiveras
+hur kan finna anpassa funktioner experimentella data
+kurvor datorgrafik
+optimeringsmodeller
+matematisk programmering ekonomi beslutsstöd
+dynamiska modeller
+simulering biologi fysik teknik
+probabilistiska modeller
+stokastisk simulering
+markovmodeller texter språk expertsystem
+bayesiansk inferens
+diskreta modeller
+grafer nät modellering projekt aktiviteter modellering diskreta standardproblem satslogik planering
+modelleringsspråk
+uppgifterna som utgångspunkt lär aktivt ut modellering problemlösning en handledningsstil som utvecklar studentens självständiga förmåga
+diskuterar också olika problemlösningsstrategier reflekterar lösningar jämför olika sätt lösa problem
+godkända övningsuppgifter
+kursen avslutas en individuell sammanfattande uppsats där studenten uppmuntras sammanfatta reflektera kursen ett personligt sätt
+betygskriterier se kursens hemsida
+uppmärksamhet ges inte enbart klassiska matematiska modeller också modeller som är vanliga datavetenskapen
+förmåga skapa använda utvärdera matematiska modeller olika eventuellt nya tillämpningsområden
+ökad allmän förmåga lösa matematiska problem
+perspektiv betydelsen matematisk modellering matematik i allmänhet ingenjörens yrkesutövning
+notera tyngdpunkten i kursen ligger lära nya icke-triviala färdigheter
+studentens framåtskridande i förhållande målen utvärderas löpande kursen lämpliga sätt
+kursen är organiserad i veckomoduler en modelltyp
+en modul defineras en inledande föreläsning övningsuppgifter lösa veckan samt en uppföljande obligatorisk föreläsning som ger återkoppling lösta uppgifterna
+övningarna genomförs i grupper två personer
+i kursen ingår även inledande avslutande föreläsningar
+i kursen betonas en interaktiv undervisningsstil mycket kontakt studenter lärare
+sker handledningstimmar där studenter löser uppgifterna regelbundet diskuterar lärarna
+får då individuell återkoppling vägledning i egen problemlösning
+examinationen uppgifterna har anpassats uppmuntra kreativitet oberoende problemlösning
+som uppföljning modul får studenterna reflektera egna alternativa lösningar egen problemlösning
+huvudsakliga undervisningsspråket är svenska visst stöd kan ges även engelska så är möjligt en intresserad student ta kursen engelska
+lära vanliga abstrakta datatyper datastrukturer algoritmer
+abstrakta datatyper
+enkel komplexitetsanalys
+vanliga datastrukturer som fält listor träd hashtabeller samt hur kan användas implementera abstrakta datatyper som köer prioritetsköer lexika grafer
+standardalgoritmer datastrukturer resurskrav
+iteratorer
+sorteringsalgoritmer
+standardbibliotek datastrukturer algoritmer
+salstentamen obligatoriska laborationer
+förstå använda grundläggande abstrakta datatyper datastrukturer annat listor köer tabeller träd grafer
+förstå använda algoritmer som används hantera grundläggande datastrukturer ett effektivt sätt förstå varför är korrekta
+analysera vissa algoritmers effektivitet
+göra välgrundade val olika datastrukturer algoritmer olika tillämpningar
+implementera abstrakta datatyper som gränssnitt datastrukturer som klasser i ett objektorienterat programmeringsspråk
+föreläsningar övningar laborationer
+kursens syfte är lära ut grundprinciperna objektorienterade synsättet hur konstruerar objektorienterade program
+objektorienterade synsättet har idag en mycket stark ställning när gäller programutveckling
+program som är uppbyggda objektorienterade principer består ett antal samverkande objekt
+objekten kapslar in data erbjuder metoder avläsa uppdatera
+objekten beskrivs s.k. klasser
+i kursen används programspråket java
+grundläggande begrepp i objektorienterad programutveckling
+metoder instansvariabler klassvariabler
+program
+användning dokumentation standardbibliotek
+testning program
+arv dynamisk bindning polymorfism
+abstrakta klasser gränssnitt
+grafiska användargränssnitt
+händelser lyssnare
+felhantering
+strömmar filer
+något aktiva objekt trådar
+orientering modellering i uml
+slutbetyg i skala 3-5 ges godkända inlämningsuppgifter laborationer baseras tentamensbetyget
+objektorienterad metodik används numera allmänt vid utveckling många olika typer system
+i kursen används java som programmeringsspråk uml som modelleringsspråk
+grundläggande begrepp i objektorienterad programutveckling
+skillnader objektorienterade funktionsorienterade synsätten
+metoder instans- klassvariabler
+uml
+program paket
+arv dynamisk bindning polymorfism
+användning standardbibliotek dokumentation
+dokumentation program javadoc
+testning program
+strukturerad felhantering
+grund djup kopiering objekt
+strukturella begreppen kohesion koppling refaktorering
+slutbetyg i skala 3-5 ges godkända inlämningsuppgifter baseras tentamen
+konstruera små objektorienterade program
+använda vanligt förekommande programutvecklingsverktyg
+behärska tekniker datainkapsling arv polymorfism i ett objektorienterat programmeringsspråk
+i kursen används java som programmeringsspråk uml som modelleringsspråk
+objektorienterad modellering i uml
+grafiska användargränssnitt
+orientering vanliga designmönster
+strömmar filer
+
+aktiva objekt trådar
+kommunikation
+portar socketar datagram multicasting client-server
+reflektion klassladdning
+slutbetyg i skala 3-5 ges godkända inlämningsuppgifter projekt baseras tentamen
+konstruera objektorienterade program grafiska användargränssnitt trådstruktur
+konstruera objektorienterade modeller i ett grafiskt modelleringsspråk
+använda vanliga förekommande datorbaserade verktyg objektorienterad metodik
+senaste åren har kraftfulla verktyg verifikation programvaru- hårdvarusystem utvecklats
+verktyg förlitar ett avgörande sätt i logiska tekniker
+kursen ger en god grund i logik en kort introduktion logiska ramverk som används modellera specificera modellera datorsystem
+grundläggande kunskaper i logik är en god grund kurser i programverifiering formella metoder artificiell intelligens
+täcker satslogik avsnitt 1,1-1,5 predikatlogik avsnitt 2,1-2,6 model-checking avsnitten 3.2 3.4)
+studenterna ska kunna förstå använda formella verktyg kontroll mjukvara hårdvara såsom sat-lösare model checking tools som används i programvaruteknik
+skall också kunna förklara innebörden sundhet fullständighet olika logiker sats- predikat- temporal logik skriva härledningar i naturlig deduktion i predikatlogik
+undervisning ges i form föreläsningar övningar
+projektkursen avser ge insikt erfarenhet uppgifter ställs vid planerandet genomförandet ett relativt omfattande konstruktionsprojekt i hård- mjukvara såsom fördelning uppgifter samordning samarbete gruppen i förekommande fall andra grupper
+i projektarbetet ingår organisation ledning projektet som själva utvecklingsarbetet
+ytterligare ett syfte är ge tillräckliga kunskaper problemformulering informationssökning rapportering dokumentation etc. självständigt kunna genomföra efterföljande examensarbete
+generellt sett ska kursen ge studerande praktisk erfarenhet arbete i projektgrupp planering konstruktion implementering verifiering ett icke-trivialt system bestående hård- mjukvara
+nivå bedöms enskild students insats varvid högre lägre individuellt betyg kan ges
+godkända inlämningsuppgifter projekt
+betyg u-5
+betyg ges projektet
+projektet görs i grupper 4 studenter
+i kurs ska studenten genomföra ett projektarbete en begränsad tid
+ämnet är fritt valt datavetenskap datateknik kan vara föreslaget en potentiell handledare studenten själv
+projektet skall vara icke-trivialt
+projektet kan göras i en liten grupp där samtliga medlemmar bidrar substansiellt individuellt
+projektet redovisas en slutrapport samt en muntlig presentation
+bedömning sker innehåll djup tydligehet
+projektets ämne kan väljas fritt områdena datavetenskap datateknik
+projektet kan föreslås studenten själv en handledare
+skriftlig rapport muntlig presentation
+betyget baseras skriftliga arbetet speciellt vetenskapliga djupet teknisk skicklighet korrekthet klarhet
+handledaren rekomenderar ett slutbetyg projektet sedan ska godkännas kursens examinator
+projektet kan utföras i grupper 2-3 studenter individuellt
+kursens övergripande syfte är introducera studenten konstruktion verifiering elektroniksystem
+kursen avses ge en stabil grund i hdl-baserad hårdvarukonstruktion är nödvändigt följande kurser i eesd-programmet samtidigt ge en överblick konstruktion inbyggda elektroniksystem
+kursens huvudteman är konstruktionsprojektens stora ökande komplexitet många konstruktionsval som träffas samt teknologiska trender utvecklingar som påverkar val
+verktygs- hdlvana examineras labkursen föreläsningsseriens överblick examineras skriftlig tentamen
+slutbetyget ges en sammanvägning betyg labkurs skriftlig tentamen
+föreslå val implementationsplattform fpga asic mjukvara processor kretskort utgångspunkt i kostnader design produktion effektförsörjning olika alternativ
+beskriva implementationssteg som krävs konstruktion verifiering test ett komplext elektroniksystem hur steg relateras
+beskriva hur konstruktionsprojekt elektroniksystem kan organiseras styras
+diskutera kraftförsörjning kylning i elektroniksystem hur designaspekter kan avgöra valet implementationsstrategier
+implementera digitala delar elektroniksystem hjälp hårdvarubeskrivande språk hdler testbänkar samt enkla konstruktionsverktyg eda-verktyg såsom hdl-simulatorer syntesverktyg
+redogöra hur konstruktion kan genomföras systemnivå hjälp verktyg modellbaserad konstruktion simuleringsverktyg som angör verktyg hårdvarukonstruktion ovan
+en labserie förbättrar säkerställer studentens verktygsvana en föreläsningsserie ger överblicken fältet
+första halvan labserien genomförs individuellt andra halvan genomförs i par
+kursen övergripande syfte är studenterna skall lära kritiskt oberoende kreativt identifiera formulera lösa ett komplext konstruktionsproblem
+uppnås studenterna får tillämpa teoretiska kunskaper hösten konstruera ett komplext elektroniskt system i ett grupprojekt
+projektets mål varieras år år spänner teknikinnehåll ändock inbyggd mjukvara teknologiplattformar såsom fpga asic
+i kurs designar studentgrupper en elektronisk produktprototyp
+dessutom måste student kontinuerligt föra personlig loggbok
+grupp examineras två huvudsakliga slutleveranser en slutlig akademisk rapport 40 % produkten produktspecifikation 30 % samt processen projektets gång 30 %
+processen examineras utgående gruppens gemensamma individuella loggböcker dokumentation agila processen handledarkontakter etc.
+resultatet sammanlagda bedömning är gruppens basbetyg
+ett individuellt betyg sätts sedan student baserat studentens bidrag gruppens gemensamma resultat tre delarna
+individuella betyget kan vara högre lägre gruppens basbetyg
+tillämpa tekniska expertis i ett flerpersonsprojekt i en elektronisk produkt fpga asic specificeras designas implementeras verifieras
+använda moderna eda-verktyg fpga asic
+bidra i flera roller ett flerpersonsprojekt i en agil projektmodell industriell typ används
+inkluderar planera följa upp samt göra avvägningar resursbegränsning
+reflektera grupps grupprocess i relation teori grupputveckling
+skriva en akademisk rapport flera författare ämne är ett produktutvecklingsprojekt korrekt källhantering
+dokumentera en elektronisk produkt tekniskt dokumentation test verifiering
+kursen består ett större designprojekt
+projektarbetet görs i team där ett antal studenter arbetar tillsammans
+målteknologierna är fpga också digital analog asic
+i projektarbetet används en vedertagen agil projektmodell
+projektets process resultat redovisas muntligt skriftligt
+skriftliga redovisningen omfattar teknisk dokumentation ev. projektdokumentation använd projektmodell samt en akademisk rapport
+datorer utgör en viktig komponent i nästan tekniska system idag grund funktionella flexibilitet förmåga utföra beräkningar snabbt energieffektivt
+i själva verket har beräkningshastigheten datorer fördubblats ca var 18 månad senaste decennierna
+kursen täcker fundamentala principer hur konstruerar datorer som erbjuder hög beräkningshastighet programvaran
+kursen omfattar arkitekturella tekniker nödvändiga uppnå hög prestanda exekverande program
+omfattar även simuleringsbaserade analysmetoder kvantitativ analys konsekvenserna ett konstruktionsbeslut prestanda strömförbrukning
+täcker också hur simuleringsbaserade tekniker kan användas kvantitativt utvärdera effekten konstruktionsbeslut beräkningshastigheten
+2
+andra delen omfattar olika tekniker utnyttjande parallellism instruktionsnivå ilp definiera nyckelbegrepp ilp som begränsar
+tekniker som omfattas delas in i två huvudkategorier dynamiska statiska tekniker
+viktigaste dynamiska tekniker som omfattas är tomasulos algoritm branch prediction spekulation
+viktigaste statiska tekniker är loop unrolling software pipelining trace scheduling samt predicated execution
+3
+tredje delen handlar minneshierarkier
+del omfattar tekniker angripa olika prestandaflaskhalsar i minneshierarkin såsom tekniker minska antalet cache missar samt minska tiden hantera en cache träff miss
+exempel tekniker som behandlas är inklusiva exkusiva hierarkier lockup-free cachar prefetching
+virtuellt minne behandlas också
+4
+fjärde delen behandlar flerkärniga flertrådade processorarkitekturer multicores
+systemnivå behandlas programmeringsmodeller hur processorkärnor ett chip kan kommunicera ett gemensamt adressrum
+slutligen får studenterna bekanta använda simuleringsmetoder verktyg som används industrin analysera effekterna konstruktionsbeslut beräkningshastigheten
+bakgrund faktum kan integrera miljarder transistorer en enda integrerad krets tvingas konstruktörer elektroniksystem använda datorstöd så kallade electronic design automation eda verktyg hantera komplexiteten konstruktionerna klara strikta systembudgetar exempel timing effektutveckling konstruktionstid
+föreläsningsserien speglar kursen i stort innehåller följande terminologi struktur eda-system
+konstruktion elektroniksystem uppbyggda mjuk- hårdvara
+funktionell verifiering
+beteende- logiksyntes
+timinganalys
+effekt- energianalys
+variabilitet
+fysisk konstruktion
+konstruktion test tillverkningsbarhet
+diskret matematik optimering relevant eda
+teknisk rapportskrivning.utöver föreläsningen teknisk rapportskrivning innehåller kursen också en skrivarworkshop där studenterna får utveckla skrivande granska kommentera utkast fördjupningsstudien
+föreläsningen ethical aspects in embedded electronic system design hör dat110 ges i förberedande syfte redan i dat093 introduktion elektroniksystemkonstruktion i läsperiod 1
+examinationen består tre delar:konstruktionsövningar syntes place-and-route asics 60 % kursens betyg bestäms förberedelser vhdl-inlämning loggböcker laborationsrapport.fördjupningsstudie i grupper 3 studenter valt område en rapport term paper en muntlig presentation 40 % kursens betyg bestäms rapporten muntlig presentationen.etikuppgift individuella uppgift leder en kort skriftlig reflektion ett etiskt dilemma forskning utveckling kursens tekniska område betygsätts godkänd icke godkänd
+beskriva moderna eda-baserade konstruktionsflöden fundamentala svagheter styrkor3
+använda linux-baserade eda-verktyg enkla shell scripts kommandofiler konstruktion verifiering digitala elektroniksystem4
+genomföra fördröjningsdriven timing-driven syntes and effektanalys digitala kretsar5
+kritiskt systematiskt integrera kunskap kunna modellera simulera utvärdera egenskaper relevanta konstruktionsflöden digitala asics6
+ett tydligt sätt kommunicera slutsatser konstruktionsövningarna fördjupningsstudierna term paper också redovisande bakomliggande fakta gjorda val etiska aspekter
+kursen avser ge förståelse hur mixed-signal-subsystem a d- d a-omvandlare specificeras implementeras samt hur påverkar systemprestanda
+kursen tar upp sampling kvantisering omvandlarspecifikationer vanliga omvandlararkitekturer analoga interfacekomponenter såsom linjära filter hur omvandlares icke-idealiteter inverkar systemprestanda samt gränser implementationskostnad givna parametrar
+labserie rapportinlämning muntlig examen samt frivillig skriftlig tentamen
+slutligt betyg vägs
+föreläsningarna presenterar material textbok forskningsartiklar
+laborationerna omfattar mjukvarusimuleringar analoga analog digitala system
+students get practical experience with languages that exemplify a particular paradigm
+kursen innehåller också en introduktion programmering beroende typer martin-löfs konstruktiva typteori en teori som förenar matematiska bevis programmering
+kursen examineras hemuppgifter en muntlig presentation en hemtentamen
+muntliga presentationen sker parvis studenten kan välja presentera en uppsats ett kapitel i kursboken som involverar tillämpningar typsystem som inte omfattas föreläsningarna
+presentationen bedöms avseende presentationamaterialet muntliga presentationen
+avslutad kurs ska studenten ha en solid bred grund typsystem programmeringsspråk
+studenten ska kunna konstruera analysera implementera typsystem även använda i olika applikationsområden
+dessutom kommer studenten kunna arbeta interaktiv programmering bevissystem beroende typer
+undervisning ges i form föreläsningar övningar handledning
+ett ytterligare syfte är studenten översiktligt skall kunna belysa etiska konsekvenserna arbete
+studenterna bildar arbetsgrupper grupp tilldelas ett ämne gruppen skall skriva en uppsats
+uppsatsen skall presenteras muntligt vid ett seminarium
+studenten skall också granska publikationer andra gruppers uppsatser
+undervisningen sker i form föreläsningar seminarier workshoppar uppsatsmetodik granskning presentation som etik
+betyget godkänd kursen skall studenten 1 författa en analyserande översiktsuppsats annan vetenskaplig uppsats ett givet ämne ett specifikt forskningsområde 2 granska publikationer andra studenters arbeten 3 presentera uppsats muntligt 4 delta i föreläsningar seminarier workshoppar områdena uppsatsmetodik presentationsteknik 5 delta i kursens etiska moment genomföra eventuella specifika uppgifter etikområdet
+kursen organiseras i form föreläsningar seminarier workshoppar hemuppgifter uppsatsskrivning muntlig presentation
+syftet kursen är skapa förståelse hur programmeringsspråk utformas dokumenteras implementeras
+kursen behandlar grundläggande tekniker verktyg som behövs implementera interpretatorer tolkar ger dessutom en introduktion kompilatorer
+kommer lära programspråkens grammatik när implementerar syntaxanalys typsystem vid implementering typkontrollerare
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+mjukvaruproduktlinjer spl är en uppsättning mjukvaruprodukter som delar en gemensamt managerad uppsättning funktioner som tillsammans möter behov som finns i ett visst marknadssegment uppdrag
+är utvecklade en gemensam uppsättning nyckeltillgångar ett planerat sätt
+utveckla stora programvarusystem sätt kan företag producera en uppsättning produkter mer ekonomiskt arbeta bättre kundanpassning upprätthålla en hög takt i produktutvecklingen samtidigt som kan hålla garanterade nivåer systemets totala prestanda kvalitet
+syftet kursen är ge fördjupade kunskaper området mjukvaruproduktlinjer som helhet teknik processer organisatoriska lednings-perspektiv
+
+ett annat syfte är ge studenten en chans lära en grundläggande forskningsmetodik är en färdighet som kan vara nytta redan kommande examensarbetet
+1 beskriva forskningsfronten ett utvalt område elektroniksystemkonstruktion2
+beskriva huvudsakliga momenten forskningsarbete planering genomförande omprioritering dokumentation spridning3
+student som följer en doktorandkurs f3 krävs deltagande i aktiviteterna nedan
+student som har avsikt göra en forskningsuppgift f1 en litteraturstudie f2 gäller följande information:kursen sträcker lp1 lp2 studenten arbetar ett oberoende sätt
+i början lp1 ska student som tar kursen i lp1 redovisa ämne avser arbeta upprätta en arbetsplan som definierar omfattning mål
+sätt i början lp2 ska student som tar kursen i lp2 redovisa ämne avser arbeta upprätta en arbetsplan som definierar omfattning mål
+studenten kontaktar lämpligen en lärare undersöka kan agera handledare
+handledaren förväntas ge vägledning hela kursen handlar åtminstone läsa godkänna arbetsplanen läsa kommentera betygsätta slutrapporten
+i slutet lp2 början lp3 presenterar studenterna arbeten
+är en fortsättningskurs tda361 computer graphics
+beskriva utnyttja avancerade algoritmer som används skapa 3d-grafik i t ex spel filmer
+implementera avancerade algoritmer realtidsrendering fotorealistisk rendering
+~16 seminarietillfällen ett 2h-seminarium vecka läsperiod 3+4
+minst 80 % närvaro krävs få godkänt kursen
+första c:a 5 seminarietillfällena ges föreläsningar läraren andra forskare
+övriga seminarietillfällen hålls presentationer studenterna följt i grupper diskuterar därmed fördjupar förståelsen presenterade algoritmerna teknikerna
+korrekt mjukvaru- systemarkitektur är avgörande mjukvaruberoende system uppnår affärsmål övriga uppdragsmål tillfredsställer erforderliga kvalitetsegenskaper såsom prestanda säkerhet säkerhet
+är sunda arkitekturprinciper metoder ett stöd utveckla analysera vidareutveckla system
+en viss typ system t.ex. säkerhetskritiska system är yttersta vikt kvalitetskraven är uppfyllda eliminera risken allvarliga katastrofala konsekvenser
+arkitektur-modellering verifiering validering utvärdering har visat vara effektiva medel väsentligt öka övergripande kvaliteten systemet
+syftet kursen är lära principer metoder som hjälper designer utvecklare arkitekt få ökad förtroende utformningen arkitektur kvantitativ modellering kvalitativa metoder utvärdering arkitektur
+kursen uppmärksammar också särskilda utmaningar som uppstår i samband skalning dynamik heterogenitet som finns i system system ultra-storskaliga system
+föreläsningar seminarier projekt
+examination i kurs varierar beroende kurstillfälle
+standardiserade visuella modelleringsspråk såsom uml tagna direkt lådan passar sällan en organisations behov
+utöka modelleringsspråk nödvändiga konstruktioner funktioner skapa kompletterande språk kräver specialistkunskaper kunskap i modellering programvara
+syftet kursen är studenten ska bekanta moderna tekniker språk notationer skapa anpassa omvandla modelleringsspråk
+examinationen består två delar en skriftlig tentamen 4,5 hp ett projekt 3 hp
+skriftliga tentamen är individuell
+projekt-examinationen baseras resultatet gruppens arbete
+mjukvaruföretag måste ständigt förbättra bli snabbare bättre mer effektiv
+kursen syftar lära vetenskapliga metoder särskilt experiment statistik datainsamling t.ex. som underlag analys beslutsstöd i förbättringsinitiativ i mjukvaruorganisationer
+kursen förbereder studenterna examensarbete förbättrar elevens förmåga bedriva forskarstudier
+kursen examineras slutligen också en skriftlig salstenta
+inlämningsuppgifter är teoretiska praktiska natur
+1
+förklara vikten forskningsetik
+2
+färdigheter förmågor a designa en empirisk studie
+3
+användandet statistiska verktyg
+kursen ger en praktisk introduktion mjukvaruutveckling
+en exakt beskrivning viktning betygskriterier finns i kurs-pm
+testning är ett mest använda verifiering- valideringstekniker industrin
+kurs ger studenterna en allmän bakgrund testmetoder fokus teori praktik modellbaserad testning
+kursen ger studenten en bakgrund teori praktikav modellbaserad testning hur testverktyg kananvändas förbättra mjukvarans kvalité software quality
+allmänna provningstekniker förklaras fokus modellbaserad testning
+examinationen består två delar en skriftlig tentamen 4,5 hp samt inlämnade uppdrag 3 hp
+studenterna förväntas vara aktiva hela minimodulen
+övningarna är teoretisk praktisk slag
+initial utveckling är bara en liten fas ett systems livscykel vanligen följs många år vidareutveckling
+ett programvarutekniskt perspektiv är fas minst lika utmanande kärnaktiviteter systemutveckling är närvarande plus många fler har tillkommit t.ex. variabilitetsstöd förändringsstöd förändringsledning kvalitetsstyrning
+syftet kursen är studerande blir förtrogen situationer aktiviteter metoder som är typiska vidareutveckling mjukvara exempel lägga en ny funktion refactoring automatisering variabilitet testning förbättra prestanda re-balansering icke-funktionella krav så vidare
+bedömningen består en serie poster-tillfällen terminen samt en slutlig skriftlig rapport 1 grupp
+poster-tillfällen används formativ bedömning slutliga rapporten används summativ bedömning
+betyg är individuell baserad innehållet i gruppens rapport individens bidrag projektet som helhet
+betygsskalan består underkänd u 3 4 5
+betyg 3 ska kunskapsmål ovan uppfyllas
+betyg 5 måste projektet som helhet ha lyckats leverera en förbättrad programvara produktägande organisationen vanligtvis ett open source-projekt fått acceptans förbättring gruppen har gjort
+redogöra som påverkar energiförbrukning i datorsystem beträffar datorns arkitektur- redogöra som påverkar energiförbrukning i datorsystem beträffar kretsstrukturer som är vanligt förekommande i datorsystem- redogöra metoder utvärdering energikonsumtion i datorsystem hur kan användas finna optimeringar- redogöra metodval vid rapportering energiförbrukning datorsystem värdera energiförbrukning samhälleliga etiska aspekter- tolka omvärldens krav datorarkitekturers utformning möta samhälleliga behov såsom lägre energianvändning
+kursen består en föreläsningsserie hemuppgifter muntliga skriftliga presentationer laborationer
+en stor del arbetet kurs kommer bestå oberoende instuderingsuppgifter
+studenterna kommer därför ge täta muntliga presentationer visa förståelse instuderingsuppgifterna skapa diskussioner
+presentationerna kommer också leda träning allt korta elevator pitches längre föreläsningar utförda i en grupp i en rolig avslappnad samverkande omgivning
+diskussionerna kommer inte bara fokusera teknik också hur tekniken påverkar världens koldioxidutsläpp just nu hur sannolikt kommer inverka samhället i kommande generationer
+syftet kursen är introducera principer praktiska tekniker parallell programmering i ett funktionellt programmeringsspråk
+parallell programmering menas användning flera hårdvaruenheter kärnor processorer öka beräkningskapaciteten
+kursen belyser metoder parallell funktionell programmering i haskell erlang
+akutell forskning ämnet presenteras kursen använder vetenskapliga artiklar som kursmaterial
+kursen behandlar principer praktiska tekniker parallell programmering i haskell erlang
+fördelar parallell funktionell programmering oföränderlighet immutability avsaknad synkroniseringsfel determinism
+profilera parallella funktionella program kornighet flaskhalsar lokalitet databeroenden
+parallella funktionella algoritmer söndra-och-härska
+metoder uttrycka parallellism i haskell eval-monaden par-monaden parallella strategier skelett dataparallellism
+funktionell gpu programmering
+parallellisering distribuering i erlang
+skalbarhet
+felhantering i ett massivt parallellt system
+baserat tentamensresultatet ges betygen u 3 4 5
+förstå betydelsen skillnad samtidighet concurrency parallellism
+2
+2
+2
+välja form parallell funktionell programmering som passar ett givet problem förklara valet
+kursen ges i form föreläsningar obligatoriska laborationer
+gästföreläsningar hålls externa experter ledande forskare
+kursen ska ge studenten grundläggande allmänna färdigheter i driva respektive medverka i tekniska utvecklingsprojekt innebär arbeta koordinerat i en projektgrupp planering genomförande uppföljning stor vikt lagd skriftlig kommunikation
+kursen ska också ge studenten tekniska färdigheter i konstruera integrera verifiera hård- mjukvara processorbaserade system
+konstruktion verifiering ett mikrodatorsystem mikroprocessor periferienheter som tas fram en viss funktionalitet viss prestanda
+metodik projektarbete planering drift uppföljning versionshantering
+skriftlig framställning i form dokumentation protokoll slutrapport
+kursen som drivs projektform i grupper 6-8 studenter leder individuella betyg u 3 4 respektive 5
+betyget baseras olika samverkande parametrar nämligen kvalitet i projektdrift planering konstruktionsarbete teknisk kvalitet uppfyllande plan kvalitet slutprodukt samt kvalitet i skriftlig kommunikation disciplinärt språk informationsstruktur retorik publikanpassad argumentation
+betygsgrundande bedömning sker fyra speciella leveranser 1 projektplan 2 oppositionskommentar annan grupps utkast slutrapport 3 demonstration slutprodukt samt 4 slutrapport
+dessutom sker betygsgrundande bedömning vid flera tillfällen kursens gång avseende projektmöteshantering versionshantering
+resultatet bedömningar är ett gruppbetyg
+baserat respektive students bidrag projektgruppens arbete sätts ett individuellt betyg som kan vara högre lägre gruppbetyget
+skriva ett c-program en mikroprocessor fokus hantering periferienheter.3
+visa basfärdigheter i driva följa upp ett tekniskt utvecklingsprojekt som drivs i en grupp en handfull utvecklare.4
+stöd grundläggande funktioner ett versionshanteringssystem organisera löpande dokumentation rapporter samt programkod.5
+skriva en grundläggande projektplan ett tekniskt utvecklingsprojekt.6
+skriva en projektrapport som avslutning ett tekniskt utvecklingsprojekt samt kritiskt granska ytterligare ett projekt.7
+resonera ställningstaganden slutsatser bakgrund följder i egna projektet samt ytterligare ett projekt
+initialt introducerar föreläsningarna mikrodatorteknik som krävs göra tekniska bedömningar val vid konstruktion systemet
+dessutom belyser tidiga föreläsningarna hur driver dokumenterar tekniska utvecklingsprojekt exempel aspekter som rapportskrivning gruppdynamik versionshantering.projektgruppen som sätts lärarlaget väljer projekt ett begränsat antal erbjudna projekt
+i samband valet tilldelas projektgrupp en mentor som ger stöd projektarbetet
+första två läsveckorna ägnar projektgruppen främst läsa in teknisk dokumentation utarbeta en projektplan.konstruktionsarbetet påbörjas i läsvecka 3 löper stöd veckovisa projektgruppsmöten kontinuerlig dokumentation fram avslutande två läsveckorna då arbetet systemverifiering demonstrationsförberedelser slutdokumentation intensifieras
+godkänt krävs aktiv närvaro godkänd rapportering godkänt projektresultat
+visa förmåga arbeta i team samarbeta i grupper olika konstitutioner bakgrunder
+the course gives an introduction of the smart grid and its increased dependence on information and communication technologies ict
+in europe and elsewhere the electrical grid is being transitioned into the smart grid in order to increase flexibility and accommodate large scale energy production from renewable sources
+this transition involves among other steps the installation of new advanced equipment for example the replacement of traditional domestic electrical meters with smart meters and remote communication with devices for example allowing remote access to an unsupervised energy production site
+the course is built around seminars where you learn about the design or development of systems infrastructure and applications that are related to the electric power smart grid with a focus on distributed algorithms and security
+you are expected to give some presentations as well as to participate actively in discussions
+completed project with written report
+knowledge demonstrate knowledge in the smart grid domain in particular on ict methods for supporting distributed resource management adaptiveness and cybersecurity including protocol or algorithms design programming and evaluation with proven experience as well as insights of current research and development in the area
+technical skills demonstrate the ability to understand design and analyse methods algorithms protocols for distributed adaptive and cybersecure smart power grid networks these methods should aim at helping to adapt to the needs and capacities of consumers industry and society and meet the requirements of sustainable development in economic and ecological terms
+areas such as distributed computing and systems information and systems security networking and computer communication are important in this context
+skills ameliorate the ability to present complex material to a small audience and explain complex algorithms and concepts
+improve skills in running a small team project practice technical writing
+this project course setup includes a short sequence of introductory lectures given by lecturers and invited talks from the industry that will prepare the students and allow their project groups to share a wider common background
+moreover the course setup includes a seminar series on advanced topics related to the projects followed by a discussion in the classroom led by an expert in the area
+the projects will be presented towards the end of the course as a presentation to peers and as a written report
+kursen innehåller projekt som är förlagt ett mjukvaruutvecklingsföretag
+projektet innehåller moment som testar i praktiken kunskaper som studenten har blivit utbildad i dvs området software engineering.studenten måste visa förmågan identifiera industriella frågeställningar använda avancerade software engineering metoder lösa problemen som har identifierats.i kursen ingår jämförelsen olika metoder lösa problemen samt en analys skillnader teoretiska praktiska förutsättningar hur metoderna används bör användas
+betygsskalan omfattar betygsgraderna u 3 4 5för få betyget 3 kursen krävs betyg g planeringsrapporten samt betyg 3 slutrapporten.för få betyget 4 kursen krävs betyget g planeringsrapporten samt betyg slutrapporten
+kursen är organiserad som en individuell lärandekurs där studenten baserad en godkänd planeringsrapport genomför praktiskt teoretiskt arbete ett företag
+riktlinjer grunderna i tekniskt skrivande
+teorier etik samt exempel
+inledande föreläsningar vetenskapligt skrivande etik flera skrivövningar handledning
+säkerställa kvalitet är en stor utmaning mjukvaruutveckling annat komplexitet tidspress kostnadshänsyn
+kurs syftar studenterna lär moderna metoder kvalitetssäkring i mjukvaruutveckling särskilt fokus inbyggda system webbapplikationer
+kursen introducerar studenterna moderna metoder kvalitetssäkring mjukvaruutveckling
+delkursen syftar examinera studenternas praktiska kunskaper som ges i kursen
+2
+frågorna syftar examinera studenternas kunskap definitioner relevant forskning området
+kandidatarbetet syftar också ge kunskaper färdigheter i ingenjörsmässigt vetenskapligt arbetssätt
+kandidatarbetets huvuddel utgörs ett projektarbete
+kandidatarbetet redovisas skriftligt gällande normer vetenskaplig teknisk rapportering samt presenteras muntligt försvaras vid ett seminarium
+examensarbetet syftar studenten skall utveckla fördjupade kunskaper förståelse förmågor förhållningssätt utbildningens sammanhang
+examensarbetet skall ligga i slutet utbildningen innebära en fördjupning syntes tidigare förvärvade kunskaper
+i examensarbetet ett civilingenjörs- arkitekt teknologie masterprogram betonas tekniska naturvetenskapliga konstnärliga innehållet
+dnr c2007 723
+studenten studenterna kontaktar examinator
+beskrivning skall bifogas registreringsunderlaget
+se https://student.portal.chalmers.se/sv/chalmersstudier/kandidat-och-examensarbete/examensarbete/sidor/utformning-rapporter-exjobb-kand.aspx
+muntliga presentationen skall utföras engelska
+presentationen examensarbetet skall annonseras vid aktuella institutionen minst två veckor presentationsdatum
+examensarbetet syftar studenten skall utveckla fördjupade kunskaper förståelse förmågor förhållningssätt utbildningens sammanhang
+examensarbetet skall ligga i slutet utbildningen innebära en fördjupning syntes tidigare förvärvade kunskaper
+i examensarbetet ett civilingenjörs- arkitekt teknologie masterprogram betonas tekniska naturvetenskapliga konstnärliga innehållet
+dnr c2007 723
+studenten studenterna kontaktar examinator
+beskrivning skall bifogas registreringsunderlaget
+se https://student.portal.chalmers.se/sv/chalmersstudier/kandidat-och-examensarbete/examensarbete/sidor/utformning-rapporter-exjobb-kand.aspx
+muntliga presentationen skall utföras engelska
+presentationen examensarbetet skall annonseras vid aktuella institutionen minst två veckor presentationsdatum
+operativsystem finns överallt där datorsystem finns inte bara i stationära datorer servrar också i fordon telefoner inbyggda industriella system
+kursen ger en introduktion design implementering operativsystem
+kursen ger en introduktion design implementering operativsystem
+exempel avsnitt som behandlas är processbegreppet parallella processer resurshantering hantering låsningssituationer deadlock hantering primärminne virtuellt minne cpu schemaläggning skivminnen filsystem distribuerade filsystem mikrokärnor virtual machines säkerhet- skyddsmekanismer
+genomförande laboration skriftlig tentamen
+2
+3
+implementera enklare rutin i ett operativsystem i programspråket c
+undervisningen bedrivs i from föreläsningar lektionsövningar laborationer
+kursen behandlar konstruktion analys feltoleranta datorsystem
+konstruktionsmetoder feldetektering feltolerans maskinvaruredundans trippelmodulär redundans tmr dubbelmodulär redundans dmr aktiv redundans varmt kallt beredskapssystem hybridredundans m.m. programvaruredundans n-versionsprogrammering recovery blocks
+tidsredundans metoder detektering transienta fel
+feltolerans i distribuerade system tidsstyrda system byzantinska fel
+analys feltoleranta datorsystem tillförlitlighetsblockschema felträd markovkedjemodeller felmodsanalys fmea felträdsanalys fta stokastiska petrinät
+två laborationer ingår där feltoleranta datorsystem analyseras markovkedjemodeller stokastiska petrinät
+beräkningarna görs ett speciellt datorprogram
+resultaten en laborationerna skall dokumenteras i en teknisk rapport
+skriftlig tentamen
+obligatoriskt deltagande i två laborationer
+formulera pålitlighetskrav datorsystem som används i affärskritiska säkerhetskritiska missionskritiska tillämpningar
+beskriva jämföra grundläggande principer arkitekturer feltoleranta datorsystem
+genomföra sannolikhetsteoretiska analyser datorsystemarkitekturer hjälp felträd tillförlitlighetsblockschema tidskontinuerliga markovkedjor stokastiska petrinät
+beskriva principer egenskaper vanligt förekommande metoder feldetektering felmaskering återhämtning
+behärska grundläggande terminologin området pålitliga datorsystem
+beskriva grundläggande livscykelsmodeller standarder som används vid utveckling säkerhetskritiska system
+föreläsningar övningar två laborationer
+digitalteknikens grundläggande element begrepp olika talsystem
+boolesk algebras användning konstruktion kombinatoriska nät synkrona sekvensnät
+datorns digitala byggblock alu dataväg styrenhet minne in- ut- enheter
+traditionsenliga processorns uppbyggnad dataväg styrenhet instruktionsuppsättning som en synkront arbetande digitalmaskin
+kodning i maskinspråk assemblerspråk
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u,3,4 5
+beskriva analysera konstruera centralenhetens grundläggande delar
+beskriva elementär undantagshantering i datorsystem
+beskriva analysera datorns uppbyggnad som programmerbart digitalt system
+betyder exempel ska kunna beskriva analysera konstruera sådana kombinatoriska nät sekvensnät som typiskt används bygga en dators centralenhet
+kombinatoriska nät som här avses utgörs huvudsakligen enklare nät såsom väljare,fördelare heladderare bitskiftare etc.
+förklara lagrade programmets princip
+beskriva programmerarens bild maskinen dvs instruktionsuppsättning adresseringssätt
+beskriva analysera konstruera enkla assemblerprogram organiserade i subrutiner
+schemalagd undervisning består föreläsningar demonstrationer handledda simulerings- kodnings- övningar
+teorin inhämtas föreläsningar demonstrationer
+därefter implementerar studenten byggblock i hårdvara laboration
+digitalteknikens grundläggande element begrepp olika talsystem
+boolesk algebras användning konstruktion kombinatoriska nät synkrona sekvensnät
+datorns digitala byggblock alu dataväg styrenhet minne in- ut- enheter
+traditionsenliga processorns uppbyggnad dataväg styrenhet instruktionsuppsättning som en synkront arbetande digitalmaskin
+kodning i maskinspråk assemblerspråk
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u,3,4 5
+beskriva elementär undantagshantering i datorsystem
+beskriva analysera datorns uppbyggnad som programmerbart digitalt system
+betyder exempel ska kunna beskriva analysera konstruera sådana kombinatoriska nät sekvensnät som typiskt används bygga en dators centralenhet
+kombinatoriska nät som här avses utgörs huvudsakligen enklare nät såsom väljare,fördelare heladderare bitskiftare etc.
+förklara lagrade programmets princip
+beskriva programmerarens bild maskinen dvs instruktionsuppsättning adresseringssätt
+beskriva analysera konstruera enkla assemblerprogram organiserade i subrutiner
+schemalagd undervisning består föreläsningar demonstrationer handledda simulerings- kodnings- övningar
+teorin inhämtas föreläsningar demonstrationer
+därefter implementerar studenten byggblock i hårdvara laboration
+kurs syftar ge grundläggande kunskaper metoder konstruktion analys realtidssystem
+grund extremt höga kostnader som följer en sen upptäckt problem i inbyggda system är viktigt god designmetodik används utvecklingen mjuk- hårdvaran
+andra programspråk använder monitorer semaforer realisera funktioner innehåller kursen också en genomgång sådana tekniker
+demonstrera generella principerna programmering realtidssystem ger kursen också exempel hur principer realiseras i andra programspråk som ada java
+möjliggöra exekvering ett program som innehåller parallella processer används ett runtime-system realtidskärna som fördelar totala tillgängliga beräkningskapaciteten systemets mikroprocessor er processerna
+kursen beskriver hur ett enkelt runtime-system är organiserat
+exekveringsordningen processerna bestämmer runtime-systemet hjälp en schemaläggningsalgoritm
+kursen presenterar tekniker baserat cykliska tidtabeller som statiska dynamiska processprioriteter
+dessutom presenteras protokoll hantering delade hård- mjukvaruresurser
+många dagens realtidstillämpningar är distribuerade multipla datornoder innehåller kursen också en introduktion topologier mediumaccesstekniker vanligt använda kommunikationsnätverk
+i realtidssystem där processer har strikta tidskrav är nödvändigt göra a priori analys systemets schemaläggningsbarhet
+kursen presenterar tre olika analysmetoder system som schemalägger processer statiska dynamiska prioriteter utnyttjandegradsbaserad analys svarstidsanalys beräkningsbehovsanalys
+i samband ges också en insikt i hur maximala resursbehovet värsta-fallets exekveringstid en process beräknas
+skriftlig tentamen godkänd laborationsuppgift
+beskriva principer mekanismer som används konstruera run-time system kommunikationsnätverk realtidstillämpningar
+tillämpa grundläggande analysmetoder som används verifiera tidsmässiga korrektheten en uppsättning processer
+kursen examineras en skriftlig tentamen
+uppgiften omfattar programmering samverkande parallella processer även maskinnära programmering hårdvaruenheter som realtidsklockor nätverkskontrollers
+utförligt underlag finns i kurs-pm
+hur söker dokumentation kommersiella elektronikkomponenter r,o
+förstå använda tillämpliga delar i dokumentation existerande elektronikkomponenter vid sammankoppling r
+utföra ingenjörsmässiga avvägningar i konstruktionen funktion hastighet komplexitet storlek r,p
+hantera moderna eda-verktyg fördelar ofullkomligheter l,v,o
+felsökning konstruktionen användande datorbaserade simulatorer mätinstrument såsom logikanalysatorer oscilloskop v,o
+dokumentera en prototyp ett mindre digitalt system p,r
+teknisk dokumentation egna konstruktionen så är förståelig användbar personer olika nivåer i ett företag r
+muntlig presentation arbetet ett ingenjörsmässigt professionellt sätt m
+kursen inleds en kort föreläsningsserie laborationer som gör studenterna bekantar cad eda-verktygen
+projektarbetet utförs i grupper tre fyra teknologer
+grupp väljer en uppgift eget förslag en projektkatalog
+konstruktionsarbetet redovisas i en skriftlig rapport
+kursen avslutas ett seminarium obligatorisk närvaro där projekten redovisas
+kurs ger grundläggande kunskaper området datasäkerhet eng security dvs hur skyddar system avsiktliga intrång
+kursen behandlar säkerhet som en del överordnade begreppet pålitlighet eng dependability
+säkerhetstänkandet sätts även in i ett vidare sammanhang organisatoriska affärsmässiga sociala juridiska mänskliga etiska aspekter berörs
+introduktion datasäkerhet definitioner terminologi standarder
+säkerhetsmekanismer autentisering behörighet åtkomstkontroll filskydd referensmonitorkonceptet kryptering separation.intrångsdetekteringssystem
+lagar etik
+fullgjord kurs skall studenten ha tillgodogjort följande lärandemål
+kurs får studenterna en bred överblick datasäkerhetsfältet
+from 1975 to 2005 the computer industry accomplished a phenomenal mission in 30 years we put a personal computer on every desk and in every pocket
+in 2005 however mainstream computing hit a wall and the industry undertook a new mission to put a personal parallel supercomputer on every desk in every home and in every pocket
+in 2011 we completed the transition to parallel computing in mainstream form factors with the arrival of multicore tablets and smartphones
+soon this build out of multicore will deliver mainstream quad- and eight-core tablets and even the last single-core gaming console will become multicore
+for the first time in the history of computing mainstream hardware is no longer a single-processor von neumann machine
+power and temperature have joined performance as first-class design goals
+high-performance computing platforms now strive for the highest performance watt
+this course looks at the design of current multicore systems with an eye towards how those designs are likely to evolve over the next decade
+we also cover the historical origins of many design strategies that have re-emerged in current systems in different forms and contexts e.g. data parallelism vliw parallelism and thread-level parallelism
+två viktiga koncept är cache-koherens konsistens
+topologi skalbara nätverk
+ett genomgående tema i kursens delar är
+minnesflaskhalsen vikten effektiv resurshantering
+skriftligt projekt flera veckor
+två viktiga koncept är cache-koherens konsistens
+studerar buss-baserade cache-protokoll flerfasprotokoll
+femte delen behandlar skalbarhet parallella datorer vill säga ariktetkurtekniker öka antalet processorer i ett parallellt system speciellt avseende cache-koherensprotokollen
+sjätte delen handlar kommunikationsnätverk som är en essentiell del chip-multiprocessorer skalbara parallella datorsystem
+behandlar routing switching val topologi skalbara nätverk
+ett genomgående tema i kursens delar är avvägningar prestanda effektbehov energibehov verifierbarhet programmerbarhet underhåll
+ett andra sammanhållande tema är minnesflaskhalsen vikten effektiv resurshantering
+exempel ämnen är multitrådshantering svagare modeller minneskonsistens prefetching schemaläggning minnesåtkomster
+skriftligt projekt flera veckor snarare en konventionell tentamen
+kursen avser ge grundläggande kunskaper i analys syntes optimering digitala kombinatoriska nät sekvensnät
+kursen ger också en inblick i teknologier som sådana nät implementeras
+i kursen får studenten bekanta ett modernt datorbaserat konstruktionsverktyg cad samt lära grunderna maskinvarubeskrivande språk
+1
+översiktligt beskriva funktion användning rekonfigurerbar logik samt asic teknologi
+ul>2
+minimera en boolesk funktion kunna uttrycka kanonisk form
+skapa använda testbänkar verifiera korrekt funktionalitet en digital konstruktion
+använda fpga teknologi implementera en digital hårdvarukonstruktion
+ul>3
+föreläsningar laborationer
+kursen har som syfte förmedla hur ett modernt datorsystem är uppbyggt hur hårdvarudelar samverkar mjukvaran låg nivå
+speciellt tas stor hänsyn prestandafrågor många designbeslut eftersträvar en viss prestanda lägsta kostnad mesta möjliga prestanda en given kostnad
+tentamen
+läsa skriva enkla assemblerprogram en typisk tre-adress register maskin
+identifiera grundläggande typer konflikter som uppkommer följd pipelining en processors dataväg
+ut beskriva enkla metoder hantera konflikter identifiera begränsningar i metoder samt uppskatta prestandainverkan
+korrekt sätt använda instruktioner som utför aritmetiska operationer flyttal som heltal
+redogöra funktionen uppskatta prestandapåverkan en minneshierarki som kan omfatta cacheminnen huvudminne virtuellt minne som använder olika parameterar total storlek blockstorlek associativitet etc olika minnesnivåerna
+beräkna prestanda i enkla lastfall ett i o-system speciellt i system som består processorer bussar skivminnen
+identifiera prestandamässiga flaskhalsar i ett sådant system
+förklara hur ett datorsystems prestanda kan definieras mätas
+uppskatta parameterändringars inverkan systemets prestanda ovan
+översiktligt beskriva komponenter principer som används vid konstruktion fler-kärniga processorer
+undervisningen omfattar föreläsningar fördjupningsövningar i grupp samt laborativt arbete baserat en mjukvarusimulator ett litet datorsystem
+laborativa delen avslutas en inlämningsuppgift
+nätverk datorer blir en alltmer naturlig viktigare beståndsdel många teknikområden
+kursen inriktar aspekter datakommunkation som en verksam ingenjör kommer i kontakt i yrkesarbete
+är en grundkurs bred inriktning området datakommunikation
+03 tillämpa referensmodellerna skapa förståelse uppbyggnaden användning olika datornätverk
+05 ha grundläggande kunskaper viktigaste applikationsprotokollen
+09 söka djupare kunskap enskilda standarder protokoll datakommunikationsområdet
+10 använda nätverksanalysprogram analysera datatrafik i ett lokalt nätverk anslutning internet
+traditionella föreläsningar ges där grundläggande teorin viktiga koncept presenteras komplettera kursboken
+föreläsningar ges vecka som ett komplement föreläsningarna hålls ett antal sessioner övningar hjälp övningsledare
+nätverk datorer blir en alltmer naturlig viktigare beståndsdel många teknikområden
+kursen inriktar aspekter datakommunkation som en verksam ingenjör kommer i kontakt i yrkesarbete
+är en grundkurs bred inriktning området datakommunikation
+ha god kännedom referensmodeller datakommunikation lager avseende funktion tjänster protokoll.03
+ha grundläggande kunskaper viktigaste applikationsprotokollen.06
+ha god kännedom tcp ip-modellen internets uppbyggnad arkitektur samt bearbeta en grundläggande ip-adresseringsplan ett intranät.07
+ha god förståelse internets begränsningar avseende servicegarantier i samband nyutvecklade tjänster
+08 redogöra hur olika typer datanätverk är uppbyggda i förhållande transmissionsmediets egenskaper kraven bandbredden kodningsmetoder funktioner fel- flödeskontroll
+09 söka djupare kunskap enskilda standarder protokoll datakommunikationsområdet
+10 använda nätverksanalysprogram analysera datatrafik i ett lokalt nätverk anslutning internet
+traditionella föreläsningar ges där grundläggande teorin viktiga koncept presenteras komplettera kursboken
+föreläsningar ges vecka som ett komplement föreläsningarna hålls ett antal sessioner övningar vanligen i flera mindre grupprum där individuell hjälp problemlösning tillsammans övningsledare är möjlig
+datornätverk täcker en rad underliggande områden så som datorkommunikation nätverkskoncept nätverksprotokoll nätverkssäkerhet bsd socket api distribuerade feltolerans metoder
+kunna bemästra datornätverk krävs teoretiska praktiska kunskaper utformning genomförande användande nätverksprotokoll tjänster
+syftet kursen är lära utforma analysera nätverksprotokoll inhämta kunskap befintliga kommunikationsnät stödsystem protokoll grundläggande funktioner metoder i datakommunikationsnät
+erfarenhet nätverksorienterad programmering ges som en väsentlig del kursen
+kursen innehåller praktiska experiment analyser som avser öka studentens förståelse centrala begrepp återspeglingar i verkliga problem
+ska kunna visa bred kunskap internet-teknik domännamns-system
+föreläsningar övningar hemuppgifter laborationer
+modern mjukvaruutveckling industrin har antagit agila principer metoder t.ex. öka kundfokus öka hastigheten utveckling releaser omfamna förändringar
+kursen syftar lära mjukvara design utveckling hjälp metoder principer i teori praktik
+kursen behandlar processen xp extreme programming projektledning
+agil projektledning agilt ledarskap agila processer organiska team apm principer praxis xp-verktyg såsom eclipse junit ant cvs
+skriftlig tentamen maximalt 60 poäng
+godkänt krävs minst 24 poäng ett godkänt projekt
+realtidssystem spelar en viktig roll i många tillämpningar såsom drive-by-wire-system fordon intelligenta trafikstyrsystem banksystem autonoma robotar
+många tillämpningar måste systemet konstrueras flera processorer kunna möta uppsatta prestandakraven
+egenskaper realtidssystem tillämpningskrav konstruktionsmetoder processmodeller exekveringsmodeller arkitekturer
+utvärdering realtidssystem prestandamått metoder utvärdering
+schemaläggning enkel- multiprocessorsystem problemformulering terminologi algoritmer
+metoder feltolerans i realtidssystem modeller algoritmer arkitekturer
+metoder distribuerad klocksynkronisering
+värsta-fallets exekveringstid ett program
+slutligt betyg vägs
+behärska terminologi som används teorin schemaläggning beräkningskomplexitet
+redogöra principer mekanismer som används vid schemaläggning processexekvering datakommunikation i ett realtidssystem
+härleda prestanda samt känna teoretiska prestandabegränsningarna ett givet realtidssystem
+digitalteknikens grundläggande element begrepp olika talsystem
+boolesk algebras användning konstruktion kombinatoriska nät synkrona sekvensnät
+datorns digitala byggblock alu dataväg styrenhet minne in- ut- enheter
+traditionsenliga processorns uppbyggnad dataväg styrenhet instruktionsuppsättning som en synkront arbetande digitalmaskin
+kodning i maskinspråk assemblerspråk
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u 3 4 5
+beskriva analysera konstruera centralenhetens grundläggande delar
+beskriva elementär undantagshantering i datorsystem
+beskriva analysera datorns uppbyggnad som programmerbart digitalt system
+betyder exempel ska kunna beskriva analysera konstruera sådana kombinatoriska nät sekvensnät som typiskt används bygga en dators centralenhet
+kombinatoriska nät som här avses utgörs huvudsakligen enklare nät såsom väljare fördelare heladderare bitskiftare etc.
+förklara lagrade programmets princip
+beskriva programmerarens bild maskinen dvs instruktionsuppsättning adresseringssätt
+beskriva analysera konstruera enkla assemblerprogram organiserade i subrutiner
+schemalagd undervisning består föreläsningar demonstrationer handledda simulerings- kodningsövningar
+teorin inhämtas föreläsningar demonstrationer
+därefter implementerar studenten byggblock i hårdvara laboration
+digitalteknikens grundläggande element begrepp olika talsystem
+boolesk algebras användning konstruktion kombinatoriska nät synkrona sekvensnät
+datorns digitala byggblock alu dataväg styrenhet minne in- ut- enheter
+traditionsenliga processorns uppbyggnad dataväg styrenhet instruktionsuppsättning som en synkront arbetande digitalmaskin
+kodning i maskinspråk assemblerspråk
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u,3,4 5
+beskriva elementär undantagshantering i datorsystem
+beskriva analysera datorns uppbyggnad som programmerbart digitalt system
+betyder exempel ska kunna beskriva analysera konstruera sådana kombinatoriska nät sekvensnät som typiskt används bygga en dators centralenhet
+kombinatoriska nät som här avses utgörs huvudsakligen enklare nät såsom väljare,fördelare heladderare bitskiftare etc.
+förklara lagrade programmets princip
+beskriva programmerarens bild maskinen dvs instruktionsuppsättning adresseringssätt
+beskriva analysera konstruera enkla assemblerprogram organiserade i subrutiner
+schemalagd undervisning består föreläsningar demonstrationer handledda simulerings- kodnings- övningar
+teorin inhämtas föreläsningar demonstrationer
+därefter implementerar studenten byggblock i hårdvara laboration
+programutveckling i c assemblerspråk test felsökning
+programmering kretsar parallell in- utmatning tidshantering programmering räknarkretsar
+grunderna datorkommunikation programmering kretsar seriekommunikation
+dessutom implementeras ett enkelt tidsdelningssystem i c assemblerspråk speciell tonvikt användning periferikretsar
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u 3 4 5
+teorin inhämtas föreläsningar demonstrationer
+programutveckling i c assemblerspråk test felsökning
+programmering kretsar parallell in- utmatning tidshantering programmering räknarkretsar
+grunderna datorkommunikation programmering kretsar seriekommunikation
+dessutom implementeras ett enkelt tidsdelningssystem i c assemblerspråk speciell tonvikt användning periferikretsar
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u,3,4 5
+teorin inhämtas föreläsningar demonstrationer
+algoritmer datastrukturer utgör fundamentala byggstenar i flesta moderna programvaror
+kunskaper färdigheter i tekniker konstruktion analys algoritmer är viktiga verktyg vid produktion korrekta effektiva program
+förtrogenhet begreppen dataabstraktion datastruktur är nödvändig vid konstruktion användning underhåll förändringsbara återanvändbara programkomponenter
+i kursen används java som programmeringsspråk
+algoritmtekniker iterativa rekursiva algoritmer induktionsbevis divide and conquer backtracking dynamisk programmering
+analys algoritmers datastrukturers resurskrav avseende beräkningstid minnesbehov
+asymptotisk komplexitet genomsnittlig komplexitet värsta-fall-komplexitet
+linjär- binärsökning
+olika sorteringsalgoritmer egenskaper
+begreppen abstrakt datatyp datastruktur
+datastrukturer vektorer strängar stackar köer listor träd binära sökträd hashtabeller prioritetsköer grafer mängder
+vanliga användningsområden
+standardiserade algoritmer klasser datastrukturer
+implementering datastrukturer
+obligatoriska inlämningsuppgifter skriftlig tentamen
+slutbetyg i skala 3-5 ges godkända inlämningsuppgifter baseras tentamen
+göra enkla analyser algoritmers datastrukturers resurskrav
+använda standardbibliotek datastrukturer algoritmer
+implementera egna datastrukturer i ett objektorienterat språk
+i kursen tas följande begrepp upp i olika fördjupningsgrad process processkommunikation semaforer ömsesidig uteslutning synkronisering låsning minneshantering tidshantering schemaläggning tidskrav mjuka hårda system tidsstyrda händelsestyrda system schemaläggningsanalys system statiska dynamiska processprioriteter distribuerade realtidssystem samt datakommunikation små inbyggda realtidssystem
+kursen beskriver implementering en liten realtidskärna ett mikrodatorsystem
+kursen tar även upp hantering listor stackar i c-program i samband övningar studier en realtidskärna
+en större laborationsuppgift en avslutande laborationsrapport ger erfarenheter programutveckling inbyggda system
+kursen avslutas en skriftlig examen
+slutbetyg skalan underkänd u samt godkänd betygen 3 5 ges baserat skriftliga tentamen laborationsuppgiften
+beskriva förstå allmänna uppbyggnaden funktionen en realtidskärna små inbyggda system
+utveckla program bestående flera processer små applikationer stöd en realtidskärna
+kunna använda pekare dynamisk minneshantering i samband utveckling c-program hantering listor stackar mm
+förklara innebörden skillnaden begreppen statisk respektive dynamisk schemaläggning
+tillämpa schemaläggningsanalys enklare system bestående flertalet specificerade processer tidskrav period deadline
+beskriva grundläggande struktur egenskaper can-protokollet
+utveckla enklare program ett distribuerat realtidssystem baserat en gemensam can-buss
+undervisningen sker i form föreläsningar övningar en laborationsuppgift
+ramen laborationsuppgiften i samarbete kursen lsp580 engelska tränas muntlig skriftlig färdighet
+referensmodeller datakommunikation
+distribuerade applikationer applikationsprotokoll www dns e-post
+sockets
+bitfel- flödes- stockningskontroll
+internets protokoll addressering ipv4 ipv6
+routingalgoritmer dv ls
+routing internet autonoma system
+routingprotokollen rip ospf bgp
+mac-algoritmer
+länkprotokollen felupptäckande koder
+multimedia applikationer
+säkerhet i datornätverk
+brandvägg paketfiltrering skydd wlan
+gemensamt flesta lärandemålen är examineras skriftlig tentamen
+i kursen ingår obligatoriskt moment som består tre laborationer samt en inlämningsuppgift
+bli godkänd i hela kursen krävs samtliga laborationer inlämningsuppgiften är godkända
+laborationer inlämningsuppgiften görs i grupper två studenter
+målet 9 handlar söka djupare kunskap datakommunikationsområdet kommer gruppen få obligatorisk inlämningsuppgift innehållande antal deluppgifter som bl.a. handlar inhämta djupare kunskaper
+inlämningsuppgiften redovisas i en rapport måste bli godkänd granskning examinerande läraren lärarassistent annars blir retur feedback komplettering slutgiltigt godkännande
+målen 10 11 har en praktisk karaktär examineras examinerande lärare lärarassistent handleder iakttar kursdeltagarna i laboratoriemiljö ca 12h uppdelat i tre laborationer
+gemensamt målen 10 11 är krävs sudenterna antecknar resultaten svar frågorna i lab-pm när arbetar praktiskt uppgifterna
+dessutom slutgiltigt examinera mål 10 krävs skriftlig rapport resultaten vid arbetet laboration 1
+rapporten måste godkännas granskning sätt som inlämningeuppgiften
+slutbetyget ges i skalan u 3-5 ges baserat tentamens resultat
+redovisa grundlägggande kunskaper färdigheter området datakommunikation datornätverk
+redovisa god kännedom referensmodeller datakommunikation lager avseende funktion tjänster protokoll
+tillämpa referensmodellerna skapa förståelse uppbyggnaden användning olika datornätverk
+redovisa god kännedom principer protokoll standarder som tcp ip-baserade nätverk bygger
+redovisa grundläggande kunskaper viktigaste applikationsprotokollen
+redovisa god kännedom tcp ip-modellen internets uppbyggnad arkitektur samt bearbeta en grundläggande ip-adresseringsplan ett intranät
+redovisa god förståelse internets begränsningar avseende servicegarantier i samband nyutvecklade tjänster
+redogöra hur olika typer datornätverk är uppbyggda i förhållande transmissionsmediets egenskaper kraven bandbredden kodningsmetoder funktioner fel- flödeskontroll
+söka djupare kunskap enskilda standarder protokoll datakommunikationsområdet
+använda nätverksanalysprogram analysera datatrafik i ett lokalt nätverk anslutning internet
+redovisa grundläggande praktiska färdigheter i konfiguration lokala nätverk
+i kursen ingår även ett frivilligt moment självstudier webbaserat kursmaterial
+syftet kursen är studenterna skall kunna skaffa fördjupade kunskaper praktiska färdigheter internet nätverksutrustning allt ip-routrar routerteknik lan-switchar wan-teknik
+syftet är också studenten i ett framtida yrkesliv skall kunna självständigt planera konfigurera underhålla små medelstora lokala nätverk anslutning globala internet
+kursen omfattar huvudmoment som handlar grundläggande internetteknik tcp ip-protokollen internetanslutning routingteknik
+arbetssättet ip-routrar lan-switchar ligger i centrum kurs
+tcp ip-arkitektur internet
+applikations- transportprotokollen
+lokala nätverk lan ethernet-standarder
+grundläggande routing- switchingteknik routersuppbyggnad grundläggande konfiguration principer routing vägvalsalgoritmer protokollet rip som distance-vector routingprotokoll
+ip-adressering variabel nätmask vlsm adresseringsmetoder som dynamisk ip-konfiguration dhcp adressöversättning nat
+routing autonomt system as
+routingprotokoll vlsm ripv2 eigrp standardprotokollet ospf som link-state routingprotokoll
+grundläggande switchkonfiguration
+spanning tree protocol stp
+virtuella lan ram-taggning
+routing vlans
+routing switching i komplexa nätverk konfigurering routrar switchar avancerade funktioner avseende arkitektur komponenter drift större mer komplexa nätverk
+felsökning routrar switchar lösa vanliga problem enkelarea ospf multiarea ospf enhanced interior gateway routing protocol eigrp stp i ipv4- ipv6-nätverk
+skaffa kunskaper färdigheter som behövs installera ett trådlöst nätverk wlan i ett litet medelstort nätverk
+implementering vlans rapid spanning tree protocol rstp per-vlan spanning tree plus protocol pvst+ etherchannel
+teknologier globala nätverk wan wan-teknlogier nätverkstjänster som krävs konvergerade applikationer i ett komplext nätverk
+länkprotokoll i wan t.ex. hdlc punkt-till-punkt protokoll ppp frame relay
+bredband seriella anslutningar
+kunskaper färdigheter som behövs etablera virtuella privata nätverk vpn
+nätverksövervakning felsökning hjälp syslog snmp netflow
+moderna nätverk datacenter virtualisering
+kursen är uppdelad i tre delar grundläggande routing switching routing switching i komplexa nätverk wan-access
+del betygsätts examinationsformer
+tilltänkta lärandemålen examineras tre sätt
+första är direkt överinsyn examinatorn assistenterna laborationer sedan bedöma labbarbetet hjälp labbtest i labbsalen i slutet del
+andra är utvärdera resultaten projektarbete som kommer utarbetas i samband del
+arbetet projektet sker elektroniskt hjälp nätverkssimulator leverera resultaten i form uppladdade filer simulering diagram tabeller rapport
+tredje är utvärdera en muntlig presentation rollen som opponent ett valt ämne ett seminarium aktivt deltagande hela klassen
+examinationen är naturligtvis en kontinuerlig process kursens gång
+är ett antal obligatoriska aktiviteter uppgifter som kommer bedömas poängssättas demonstrera resultaten i en lämplig form främst rapporter presentationer
+aktiviteterna är laborationer projektarbete seminarier labbtest hemuppgifter
+slutbetyg i skalan u 3-5 ges baserad summan resultaten samtliga aktiviteter uppgifter mer detaljer finns hemsidan kursen
+1
+planera bearbeta en effektiv ip-adresseringsplan tillämpning tekniker som variable length subnet mask vlsm network address translation nat dynamic host configuration protocol dhcp
+2
+sätta upp en router grundläggande konfiguration ansluta ett lokalt nätverk internet
+3
+analysera konfigurera verifiera tillämpningen grundläggande accesskontroll en router filtrera ip-paket baserat en förbestämd policy accessen internet
+4
+konfigurera utvärdera egenskaperna mest använda routingprotokollen ett autonomt system routing information protocol rip the open shortest path first ospf i små medelstora nät
+5
+felsöka en befintlig nätverkskonfiguration samt verifiera funktionalitet nätverksutrustning hjälp tcp ip-verktyg nyttigt program
+6
+konfigurera administrera switchat ethernet-baserat lokalt nätverk lan möjlighet redundans gruppering datorerna i ett antal s.k. virtuella lans vlans
+7
+konfigurera administrera inter-switchade vlans samt konfigurera en router inter-vlan routing
+8
+kursen omfattar huvudsakligen 14 föreläsningar alt. seminarier 17 laborationer 3 projektarbete 3 labtests 2 hemuppgifter
+i kursen ingår även ett moment webbaserade självstudier
+digitalteknikens grundläggande element begrepp olika talsystem
+boolesk algebras användning konstruktion kombinatoriska nät synkrona sekvensnät
+datorns digitala byggblock alu dataväg styrenhet minne in- ut- enheter
+traditionsenliga processorns uppbyggnad dataväg styrenhet instruktionsuppsättning som en synkront arbetande digitalmaskin
+kodning i maskinspråk assemblerspråk
+bli godkänd kursen krävs godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u,3,4 5
+beskriva elementär undantagshantering i datorsystem
+kombinatoriska nät som här avses utgörs huvudsakligen enklare nät såsom väljare fördelare heladderare bitskiftare etc.
+teorin inhämtas föreläsningar demonstrationer
+därefter implementerar studenten byggblock i hårdvara laboration
+kursen är en introduktion programutveckling i språket c
+i kursen lär implementera en lösning i form ett datorprogram i språket c ett definierat problem
+kursen omfattar identifierare variabler typer uttryck operatorer satser funktioner programstruktur tecken strängar pekare fält sammansatta typer,dynamisk minneshantering listor filhantering lite standardbibliotek
+kursen inleds en introduktion en utvecklingsmiljö
+skriftlig tentamen 6 hp samt en obligatorisk inlämningsuppgift 1,5 hp
+vid första ordinarie tentamenstillfället vid kurstillfället hörande 2 omtentamina kan tillgodoräknas 5 bonuspoäng tentamenspoäng genomförda inlämnade godkända övningar
+slutbetyget baseras enbart tentamensresultat eventuella bonuspoäng
+implementera en lösning i språket c problemet
+programutveckling i c assemblerspråk test felsökning
+programmering kretsar parallell in- utmatning tidshantering programmering räknarkretsar
+grunderna datorkommunikation programmering kretsar seriekommunikation
+dessutom implementeras ett enkelt tidsdelningssystem i c assemblerspråk speciell tonvikt användning periferikretsar
+examinering sker i form godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges betygen u,3,4 5
+teorin inhämtas föreläsningar demonstrationer
+examensarbetet genomförs företrädesvis i grupp två studenter kan även genomföras enskilt
+kursens övergripande syfte är introducera studenten området konstruktion integrerade cmos-kretsar ge grundläggande färdigheter i användandet industriella verktyg electronic design automation eda i förstå roll i konstruktionsflödet integrerade kretsar
+teknologioberoende modeller effektförbrukning signalfördröjning presenteras ger studenten generiska verktyg beräkna sådana prestandaegenskaper kretsar i dagens morgondagens cmos-teknologier
+introduktion cmos integrerad kretskonstruktion grundläggande byggblock teknologiplattformar konstruktionsverktyg
+praktisk färdighetsträning i användandet electronic design automation eda verktyg industriellt snitt
+mos-transistorn som digital switch
+som statisk dynamisk modell
+
+konstruktion logiska grindar pull-up pull-down block
+som dynamisk switchmodell
+ingångskapacitans drivförmåga
+teknologioberoende fördröjningsmått
+definition logical effort parasitfördröjning electrical effort fanout
+kritiska vägar
+grundläggande kretslayout standardcellmallar
+som demonstrator
+ripple carry carry look-ahead prefixträdsadderare
+ledningsfördröjningar
+rc-tvåporten som ledningsmodell
+elmore s fördröjningsmodell
+repeterare
+latchar vippor
+metastabilitet
+klockstyrning
+effektstyrning
+godkänt krävs 50 % skriftliga tentamen
+inlämningsuppgifterna kan ge bonuspoäng som kan användas uppnå betyg fyra fem
+bonuspoäng kan inte användas uppnå godkänt betyg tre
+konstruera statiska cmos-grindar pull-up-nät pull-down-nät implementera som standardceller
+enkla mos-transistor-modeller uppskatta statiska dynamiska egenskaper cmos inverterare använda egenskaper modellera komplexa grindar
+kursen är organiserad som en bottom-up systerkurs top-down organiserade parallella kursen introduktion elektroniksystemkonstruktion
+genetisk information lagras i dna-molekylen som en linjär sekvens baser
+när en gen uttrycks översätts gensekvens en sekvens aminosyror i ett protein
+sekvensen aminosyror bestämmer i tur proteinets tredimensionella form biologiska funktion
+teknik dna-sekvenserings har förbättrats dramatiskt måste kunna hantera stora datamängder i grundforskning områden som klinisk medicin
+analys dna- rna- proteinsekvenser kommer därför spela en viktig roll kommande åren
+målen sådan analys omfattar genomanalys strukturella funktionella förutsägelser klarläggande molekylära grunden mänskliga sjukdomar förståelse grundläggande biologiska system rekonstruktion evolutionär historia
+kursen belyser hur bioinformatiklösningar tillämpas i biologiska problem teoretiska principerna lösningar diskuteras
+kursen behandlar grundläggande metoder som används i sekvensanalys t.ex. parvis multipel anpassning sökning i databaser sekvenslikhet profiler mönstermatchning dolda markov-modeller rna-bioinformatik genprognosmetoder principer molekylär fylogeni
+kursen innehåller moderna high-throughput sekvenseringstekniker tillämpningar samt molekylärbiologiska databaser olika system söka sådana databaser
+kursen behandlar teoretiska principer samt befintliga program som används bioinformatiker
+studenten examineras 5-8 obligatoriska datorövningar en skriftlig tentamen
+undvika onödiga komplikationer väljer ofta studera beräkningar förenklade kraftfulla modeller
+kursen behandlar flera sådana modeller imperativa funktionella
+en flera modeller kommer användas utforska gränserna som kan beräknas problem som inte kan lösas en viss modells ramar program som kan köra godtyckliga program modellerade ett visst sätt
+kursen innehåller också en diskussion church-turings hypotes en förmodan en funktion är beräkningsbar ett visst intuitivt sätt endast kan definieras i en flera beräkningsmodeller
+kursen examineras en individuell skriftlig salstentamen samt individuella inlämningsuppgifter
+en karaktäristisk egenskap sådana problem är är svåra lösa
+kursen syftar utveckla förmågan modellera verkliga problem använda matematiska algoritmiska verktyg lösa optimalt heuristiskt
+
+
+laborationen i kursen består i skriva en komplett kompilator ett litet imperativt språk
+kompilatorteori implementation tonvikten kodgenerering runtime-miljöer
+programmeringsprojekt muntlig redovisning
+betygsskala u 3 4 5
+undervisningen består föreläsningar ett programmeringsprojekt individuell handledning i samband projektet
+kursens syfte är introducera två viktigaste teknikerna formella metoder resonera mjukvara modellkontroll model checking deduktiv verifikation deductive verification
+språk uttrycka systemegenskaper användning
+en interaktiv teorembevisare används formellt verifiera uttryck specifikationer program
+inlämningsuppgiter tenta kan godkännas oberoende få godkänt hela kursen krävs godkänt inlämningsuppgifterna skriftliga tentan
+betyg godkända studenter avgörs tentamensresultatet
+vissa föreläsningar innefattar även övningar
+feltolerant multicast
+resursallokering
+distribuerade algoritmer design analys distribuerade algoritmer
+sensornätverk energieffektiva distribuerade lösningar
+denial of service attacker
+få en god förståelse framsteg i teknologi system- kommunikationsarkitektur som har drivit användningen distribuerade system
+redogöra förklara utmaningar möjligheter som applikationsutvecklare ställs vid utveckling ett distribuerat system sensornätverk
+designa implementera utvärdera distribuerade system applikationer
+fokus ligger design programbibliotek inbäddade språk
+en stor fördel funktionella programspråk är flesta språkkonstruktionerna kan namnges därmed återanvändas som högre ordningens funktioner
+funktionella program kan därför ofta konstrueras kombinera konstruktioner ett funktionsbibliotek
+här metoden gör möjligt snabbt konstruera program en hög grad korrekthet
+är centrala idén i kursen
+kan lära en hel del studera standardbibliotekens list-funktioner som fold osv
+funktioner kan generaliseras så fungerar andra datatyper
+realistiska funktionella program måste också hantera tillståndsförändringar avbrott backtracking andra icke-funktionella beteenden
+kommer jobba hur kan modelleras rent funktionellt
+matematiska begreppet monad hjälper
+hjälp kunskaper kommer konstruera domänspecifika programbibliotek ämnade lösa problem ett ett visst tillämpningsområde
+här sortens bibliotek kan sägas definiera ett domänspecifikt språk konstruktionerna som programmeraren använder huvudsakligen består biblioteksfunktioner
+kommer studera bibliotek inläsning parsning utskrift pretty printing grafik webbprogrammering interaktion
+kursen kommer också presentera en del aktuell forskning kan göra innehållet varierar en del åren
+kursen använder huvudsakligen programmeringsspråket haskell
+är 2-3 obligatoriska programmeringslaborationer som genomförs i par en skriftlig tentamen i slutet kursen
+kursens syfte är ge en översikt kryptografiska begrepp primitiver protokoll applikationer
+kursen innehåller grundläggande begrepp kryptografi sekretess autentisering oavvislighet
+kursens syfte är ge en översikt kryptografiska begrepp primitiver protokoll applikationer
+kursen innehåller grundläggande begrepp kryptografi sekretess autentisering oavvislighet
+kryptering symmetrisk nyckel block- strömchiffer konstruktionsprinciper exempel meddelandeautentiseringskoder
+attackmodeller säkerhetskoncept
+protokoll nyckelhantering autentisering andra tjänster
+written examination and compulsory programming assignments
+discuss and use features of different data models the entity-relationship model the relational model and the semi-structured model
+2
+apply design theory for relational databases
+3
+describe the effect of indexes and transactions in a relational database
+4
+describe how access can be controlled user authorisation
+implement a database design using a data definition language
+2
+query and modify data using a data manipulation language
+3
+express queries in relational algebra
+4
+implement a database application in a host language
+construct an entity-relationship diagram for a given domain
+2
+design and implement a database application that meets given requirements
+the course consists of weekly lectures and exercise sessions
+using the database from an external application
+kursen är en grundkurs i ämnet datorgrafik ger kunskap algoritmer tekniker principer som används skapa datorgenererde bilder
+kunna beskriva förklara tillämpa jämföra fundamentala algoritmer tekniker som används området datorgrafik t ex 3d-spel film
+kursen är organiserad i föreläsningar övningar
+studenten förväntas inte ha förkunskaper i just c++ dock i något modernt högnivåspråk som t ex java
+projektkursen avser ge kunskap övning i professionell utveckling mjukvara
+kursen syftar ge kunskaper träning i arbetsmetodik i tekniska utvecklingsprojekt speciellt mjukvaruprojekt
+ge erfarenhet faser i ett utvecklingsarbete bl.a. problemidentifiering problemformulering informationssökning användaranalys systemanalys avrapportering utvärdering etc. träna problemlösningsförmågan
+träna samarbets- kommunikationsförmågan
+kursen presenterar en enkel testdriven objektorienterad process
+begrepp som iterativ utveckling objektorienterad analys design domän- designmodell domain driven design introduceras
+olika aspekter design gås testbarhet beroenden partitionering skiktning m.fl.
+examination sker muntlig presentation projektet samt inlämning källkod övriga artifakter
+betygsskala u 3 4 5
+i projektet ingår obligatoriska veckovisa handledarmöten en muntlig slutpresentation
+parallell programmering spelar en viktig roll i system där många händelser sker synes samtidigt
+allmänna begrepp parallellism interferens synkronisering kritiska regioner ömsesidig uteslutning deadlock rättvisa livelock
+synkronisering hjälp delade variabler busy waiting
+semaforer
+monitorer
+synkron meddelandeskickning utökade rendezvous
+asynkron meddelandeskickning erlang
+asynkron koordinering linda
+standardalgoritmer datastrukturer resurskrav
+standardbibliotek datastrukturer algoritmer
+skriftlig examen laborationer
+här kursen introducerar ett funktionellt programmeringsspråk relaterade koncept studenter som redan har en del kunskap programmering
+främsta målet är göra möjligt studenterna skriva realistiska små mellanstora program samtidigt introducera grundläggande koncept datavetenskap
+kursen examineras individuella inlämningsuppgifter programmering skriftliga inlämningsuppgifter muntliga presentationer
+objektorienterade synsättet har idag en mycket stark ställning när gäller programutveckling
+program som är uppbyggda synsätt s.k. objektorienterade program består ett antal samverkande delar som kallas objekt
+objekten kapslar in data erbjuder metoder bearbeta avläsa datan
+objekten beskrivs s.k. klasser
+kursens syfte är lära ut grundläggande principerna tekniker hur konstruerar imperativa objektorienterade program
+kursen behandlar grundläggande begrepp i imperativ objektorienterad programmering så som realiseras i java
+förklara grundläggande begrepp imperativ objektorienterad programmering speciellt som realiseras i programspråk som används i kursen
+beskriva standardalgoritmer exempel sortering sökning samt veta var återfinns i språkets standardbibliotek
+definiera klasser som modellerar enkla fenomen i objektorienterad anda inkapslade data som avläses uppdateras publika metoder
+definiera enkla subrutinbibliotek utnyttjande använda programspråkets datatyper styrstrukturer
+här kursen är en introduktion imperativ programmering programvaruutveckling
+kursen syftar ge grundläggande färdigheter i programmeringsmässig problemlösning imperativa metoder ge en första inblick i programmerandet som hantverk
+beskriva principerna objektorienterad programmering använda i programmeringsfasen förklara hur kan realiseras i ett specifikt objektorienterat programspråk
+resonera utvärdera olika egenskaper program bedöma fördelar nackdelar avseende olika utvecklingsmål t ex underhåll återanvändning robusthet därpå göra lämpliga val
+programvaruutveckling är centralt en civilingenjör informationsteknik
+kursen presenterar objektorienterade programmeringsparadigmet lägger stor vikt vid design objektorienterade program
+fördjupning begreppen implementationsarv specifikationsarv abstrakta klasser polymorfism dynamisk bindning inkapsling information hiding
+introduktion uml
+fundamentala designprinciper såsom dependency inversion principle open-closed principle liskov substitution principle single responsibility principle separation of concern principle law of demeter interface segregation principle
+generiska programenheter
+kanonisk form klasser equals hashcode clone tostring serialisering
+kontraktbaserad design förvillkor eftervillkor klassinvarianter assertions
+muterbara icke-muterbara objekt
+representationsexponering
+inre klasser anonyma klasser
+undantagshantering
+vanliga designmönster såsom singleton factory method template method strategy decorator adapter iterator observer state façade mvc
+refactoring
+java s collection-ramverk uppbyggnad
+trådar trådsäkerhet race conditions deadlock kritiska regioner synkronisering
+sker i form godkänd skriftlig tentamen samt godkända laborationer
+baserat tentamensresultatet ges slutbetyg i skalan u 3 4 5
+beskriva principerna objektorienterad programmering använda i programmeringsfasen förklara hur kan realiseras i ett specifikt objektorienterat programspråk
+använda uml s klassdiagram ett överskådligt sätt planera dokumentera eget programmeringsarbete
+resonera utvärdera olika egenskaper program bedöma fördelar nackdelar avseende olika utvecklingsmål t ex underhåll återanvändning robusthet därpå göra lämpliga val
+tillämpa ett antal vanligt förekommande designprinciper designmönster åstadkomma en design som underlättar underhåll återanvändning
+implementera generiska programenheter
+använda beskriva hur ett applikationsramverk kan vara uppbyggt
+beskriva olika kriterier principer god programdesign
+undervisningen består föreläsningar övningar laborationer samt handledning i samband
+är en introduktionskurs i programmering som använder funktionella programmeringsspråket haskell
+primära syftet är lära ut grundläggande datavetenskapliga begrepp samtidigt som studenterna lär skriva realistiska små program
+sekundära mål är ge en grund kommande kurser specifikt datastrukturer algoritmer digitala kretsar formella metoder kurser i programspråk samt ge en inblick i karriärsmöjligheter data inbjudna talare
+värden typer funktioner
+sammansatta datastrukturer listor tupler användardefinierade typer
+top-down programdesign
+rekursion rekursiva typer
+tidskomplexitet bra dåliga algoritmer
+input-output
+högre ordningens funktioner data-centrisk programmering
+skriftlig tentamen obligatoriska laborationsuppgifter
+skriva små funktionella program olika tillämpningar
+kursens mål ge studenterna grundläggande förståelse tekniker hantera fel i program kunskaper hur tekniker kan användas praktiskt
+återkommande ämnen är a identifikation programvarufel b analys c rätta
+kursen ger även praktiska teoretiska kunskaper hur systematiskt bygger upp bevis en programenhet gör är avsedd göra
+kursen är genomgående fokuserad imperativa program generellt särskilt objektorienterade program
+inlämninguppgifterna görs normalt i grupper 2-3 studenter
+en inlämningsuppgift inte godkänns första försöket kan studentet få ett andra försök
+tentan inlämningsuppgifterna kan godkännas oberoende
+model-driven system development has become a popular way of building software systems
+correctly used models leads to software systems which are easy to extend reuse and maintain
+the purpose of this course is to provide knowledge about how to develop software system through models
+in this course we will study how to develop a software system by using analysis and design principles and also how models can be made executable
+we will model both static and dynamic behaviours for example interaction among objects components state changes of objects and the class structure of a system
+the focus of this course is on the analysis and design phase
+the student must attend the weekly meetings and participate in the project work
+the final grade will be decided on the project report and the contribution to the project
+apart from a report the project will be orally presented
+during the course students will be asked theoretical questions regarding literature and or lectures
+write a domain model according to domain descriptions
+realise use-cases using uml interaction diagrams state charts and class diagrams
+a project will be carried out during the course
+varför blir datorsystem allt mer distribuerade
+hur kan bygga pålitliga feltoleranta distribuerade system
+hur har internet kunnat skala flera miljarder användare
+hur är moderna distribuerade system som t.ex. molntjänster smarta elnät kommunicerande bilar uppbyggda
+är frågor som kursen behandlar
+målet kursen är få en förståelse design distribuerade system underliggande principer mekanismer som dagens distribuerade system använder
+föreläsningarna ger nödvändig fundamental kunskap laborationerna ger praktisk erfarenhet utveckling distribuerade system erfarenhet arbeta verklighetsanknutna problem
+kursen börjar en introduktion grundläggande koncept distribuerade system utmaningar står
+1
+kunna beskriva tillämpningar distribuerade system mekanismer använder kunna utföra tjänster
+schemalagda föreläsningar parallellt föreläsningarna utförs hemuppgifter handledda labbuppgifter
+hur kan lösningen utformas
+är en effektiv algoritm
+verktyg analys algoritmer
+o-notation
+analysera loopar rekursiva anrop
+lösa rekursionekvationer
+datastrukturer algoritmer
+granskning grundläggande datastrukturer
+kombinera datastrukturer
+dynamisk programmering
+backtracking implicita sökträd
+branch-and-bound
+kort introduktion lokala sök-och approximationsalgoritmer
+grundläggande komplexitetsteori
+komplexitetsklasserna p np npc reduktioner
+exempel np-fullständiga problem
+hantera svåra problem
+känna igen intractable problems andra klasser problem som p np npc
+korrektheten algoritmer
+design tillämpa viktigaste designteknikerna effektiva algoritmer t.ex. giriga dynamisk programmering söndra härska backtracking heuristiska problem som liknar läroboksexemplen är nya
+implementera algoritmer ordentligt utvärdera i teori experiment
+kritiskt bedöma algoritmiska idéer visa förmåga motstå frestelsen skapa uppenbara synes rimliga algoritmer som ofta visar vara felaktiga
+ul>var dock medveten inte är en kurs i programmering
+fokus ligger design algoritmer en given problemformulering analys effektiviteten i algoritmer
+kursen ges i form föreläsningar kombinerat handledning i grupper problemlösning ett antal inlämningsuppgifter labbar som syftar utveckla förmågan analysera utforma algoritmer
+artificiell intelligens ai studerar hur datorer kan utföra uppgifter som traditionellt har ansetts kräva mänsklig intelligens
+syftet kursen är ge en fördjupad förståelse möjligheter begränsningar ai-metoder
+designa implementera dokumentera utvärdera en ai-baserad mjukvarutillämpning så har acceptabel prestanda
+tillämpa kunskaper som förvärvats i kurs nya problem ai-domänen
+skriva vetenskapliga rapporter
+sammanfatta relatera olika etiska argument ai
+minsta delen är teoretisk består föreläsningar uppgifter som täcker viktigaste ai-ämnena
+större delen kursen består arbete i projektgrupper slutföra ett programmeringsprojekt skriva en essä läsa kommentera arbetet andra grupperna kursen
+studenterna bildar projektgrupper grupperna tilldelas handledare programmeringsprojekt essä-ämnen
+undervisningen ges i form föreläsningar gruppövningar handledning i samband obligatoriska inlämningsuppgifter laborationer
+kursen presenterar teorin ändliga automater reguljära uttryck kontext-fria språk
+kursen ger också en kort introduktion turing-maskiner.ändliga automater reguljära uttryck är en första enklaste beräkningsmodellerna
+teori är elegant enkel
+första 8 kapitlen i introduction to automata theory languages and computation hopcroft motwani ullman
+formella bevis
+ändliga automater reguljära uttryck algoritmer som rör
+kontext-fria språk
+pumplemmat egenskaper reguljära kontext-fria språk
+kort introduktion push-down automater turing-maskiner
